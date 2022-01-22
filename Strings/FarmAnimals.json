@@ -1,0 +1,18 @@
+{
+  "TryingToSleep": "{0} próbuje spać",
+  "MoodMessage_NewHome_Baby_Male": "{0} nadal jest trochę niezdarny. Jest ciekawy świata.",
+  "MoodMessage_NewHome_Baby_Female": "{0} nadal jest trochę niezdarna. Jest ciekawa świata.",
+  "MoodMessage_NewHome_Adult_Male_1": "{0} jest trochę ciekawski, ale i ostrożny. Przyzwyczaja się do nowego domu.",
+  "MoodMessage_NewHome_Adult_Male_2": "{0} jest trochę ciekawski, ale i ostrożny. To dziwny, nowy świat.",
+  "MoodMessage_NewHome_Adult_Female_1": "{0} jest trochę ciekawska, ale i ostrożna. Przyzwyczaja się do nowego domu.",
+  "MoodMessage_NewHome_Adult_Female_2": "{0} jest trochę ciekawska, ale i ostrożna. To dziwny, nowy świat.",
+  "MoodMessage_LeftOutsideAtNight_Male": "{0} został na noc na zewnątrz... Jest w złym humorze.",
+  "MoodMessage_LeftOutsideAtNight_Female": "{0} została na noc na zewnątrz... Jest w złym humorze.",
+  "MoodMessage_DisturbedByDog_Male": "{0} wygląda na zestresowanego i paranoidalnego. Chyba ostaniej nocy stało się coś złego.",
+  "MoodMessage_DisturbedByDog_Female": "{0} wygląda na zestresowaną i paranoidalną. Chyba ostaniej nocy stało się coś złego.",
+  "MoodMessage_Hungry1": "{0} jest w złym humorze.",
+  "MoodMessage_Hungry2": "Ktoś tu chyba nic nie jadł.",
+  "MoodMessage_Sad": "{0} smuci się.",
+  "MoodMessage_Fine": "{0} jest w porządku.",
+  "MoodMessage_Happy": "{0} wygląda dziś bardzo szczęśliwie!"
+}
