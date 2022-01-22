@@ -1,4 +1,4 @@
 {
-  "MessageFoundLostItem": "Znajdujesz {0}. Lepiej to zwrócić do {1}.",
-  "ObjectiveReturnToNPC": "Zwróć do {0}."
+  "MessageFoundLostItem": "Znajdujesz {0}. Lepiej to zwrócić {1}.",
+  "ObjectiveReturnToNPC": "Zwróć to {0}."
 }

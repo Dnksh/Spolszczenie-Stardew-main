@@ -2,7 +2,7 @@
   "spring_movie_0": {
     "ID": null,
     "SheetIndex": 0,
-    "Title": "Sadzonek ",
+    "Title": "Sadzonek",
     "Description": "Animowana komedia familijna o małej sadzonce w magicznej podróży, aby stać się drzewem!",
     "Tags": [
       "family",
@@ -26,7 +26,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Sadzonek opuszcza swój dom. Zawachał się i odwrócił, wiedząc, że długo nie wróci...",
+        "Text": "Sadzonek opuszcza swój dom. Obejrzał się za siebie, wiedząc, że długo nie wróci...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_1"
@@ -48,7 +48,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "O nie! Z nienacka zaczęło padać...! Sadzonek zaczyna biec, gdy nad jego głową zbierają się chmury burzowe...",
+        "Text": "O nie! Znienacka zaczęło padać...! Sadzonek zaczyna biec, gdy nad jego głową zbierają się burzowe chmury...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_3"
@@ -59,7 +59,7 @@
         "Sound": "thunder",
         "MessageDelay": 1000,
         "Script": "",
-        "Text": "Obawiając się o życie, i zdemoralizowany przez nieustającą ulewe, sadzonek zaczyna tracić nadzieje...",
+        "Text": "Obawiając się o życie, i zdemoralizowany przez nieustającą ulewę, sadzonek zaczyna tracić nadzieje...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_4"
@@ -80,7 +80,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/playSound coin/pause 1000/message \"Chyba potrzeba było troche deszczu, aby zacząć swoją podróż do stania się drzewem!\"",
+        "Script": "/playSound coin/pause 1000/message \"Chyba potrzeba było trochę deszczu, aby zacząć swoją podróż do stania się drzewem!\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": "",
@@ -159,7 +159,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Opustoszała, nieznana pusta przestrzeń... gdzie czekają nieopisane okropności.",
+        "Text": "Opustoszała, nieznana pusta przestrzeń... Gdzie czekają nieopisane okropności.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall0_4"
@@ -225,7 +225,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/playSound shadowDie",
-        "Text": "'...Albo odwiedze cie we śnie!'",
+        "Text": "'...Albo przyjdę do ciebie w nocy!'",
         "Shake": true,
         "ResponsePoint": "mysterium_shadow",
         "ID": "fall0_10"
@@ -291,7 +291,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 400/playSound thunder_small",
-        "Text": "'Ups! Wygląda na to, że lawina zmierza prosto do karawany.'",
+        "Text": "'Ups! Wygląda na to, że lawina zmierza prosto na karawanę.'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_4"
@@ -323,7 +323,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 200/playSound cowboy_explosion/pause 1000/message \"A co to? Woda wszędzie się rozlewa!\"",
+        "Script": "/pause 200/playSound cowboy_explosion/pause 1000/message \"A co to? Woda się wszędzie rozlewa!\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": null,
@@ -414,7 +414,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Wumbus próbuje zainteresować swojego siostrzeńca, Rossel, kulturą i sprawami układu gwiezdnego, ale Rossel'a to nie interesuje.",
+        "Text": "Wumbus próbuje zainteresować swojego siostrzeńca, Rossela, kulturą i sprawami układu gwiezdnego, ale Rossela to nie interesuje.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer1_3"
@@ -458,7 +458,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Ale, pomimo niemal nieskończonych możliwości rozrywki Wumbus i jego przyjaciele nadal lubią zbierać się na pyszny posiłek 'pizzę' (uformowany w 100% z glutenu).",
+        "Text": "Ale, pomimo niemal nieskończonych możliwości rozrywki Wumbus i jego przyjaciele nadal lubią zbierać się na pyszną 'pizzę' (uformowany w 100% z glutenu).",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer1_7"
@@ -603,7 +603,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Rodzina Coldstar utknęła... dostanie się do miasta jest nie możliwe. Na szczęście, krowy mają wystarczająco siana.",
+        "Text": "Rodzina Coldstar utknęła... Dostanie się do miasta jest nie możliwe. Na szczęście, krowy mają wystarczająco siana.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_2"
@@ -724,7 +724,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Rodzina została uratowana, a duch nadziei żyje i ma sie dobrze. Obietnica Gwiazdy Polarnej zostaje dotrzymana...",
+        "Text": "Rodzina została uratowana, a duch nadziei żyje i ma się dobrze. Obietnica Gwiazdy Polarnej zostaje dotrzymana...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "winter0_13"
@@ -735,7 +735,7 @@
     "ID": null,
     "SheetIndex": 6,
     "Title": "Cudy Natury: Odkrywaj Z Nami Świat",
-    "Description": "Wybierz się na wycieczkę po terenach Republiki Ferngill... od Paprociowych Wysp aż do Miasta Zuzu, ten świat jest pełen życia!",
+    "Description": "Wybierz się na wycieczkę po terenach Republiki Ferngill... od Paprociowych Wysp aż po Miasto Zuzu, ten świat jest pełen życia!",
     "Tags": [
       "documentary",
       "family"
@@ -769,7 +769,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Ciepły klimat południowego oceanu pozwala na ekstremalną różnorodność biologiczną... w skrócie, wyspa tętni życiem!",
+        "Text": "Ciepły klimat południowego oceanu pozwala na ekstremalną różnorodność biologiczną... W skrócie, wyspa tętni życiem!",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_2"
@@ -780,7 +780,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Teraz ruszamy na północ, do zgiełku Miasta Zuzu. To świat betonu i stali, oświetlony blaskiem miejskiego światła.",
+        "Text": "Teraz ruszamy na północ, do Miasta Zuzu. To świat betonu i stali, oświetlony blaskiem miejskiego światła.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_3"
@@ -802,7 +802,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Daleko na zachodzie, samotnie w rozległym Morzu Klejnotów, leży Wyspa Prerii. Pomimo swojej nazwy, na tej ziemi znajduje się różnorodny wachlarz naturalnych biomów.",
+        "Text": "Daleko na zachodzie, samotnie w rozległym Morzu Klejnotów, leży Wyspa Prerii. Pomimo swojej nazwy, na tej ziemi znajduje się wachlarz różnorodnej fauny.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_5"
@@ -824,7 +824,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "W końcu wracamy na stały ląd, aby odwiedzić jeden z najprzyjemniejszych obszarów kontynentu... Doliny Stardew.",
+        "Text": "W końcu wracamy na stały ląd, aby odwiedzić jeden z najprzyjemniejszych obszarów kontynentu... Dolinę Stardew.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_7"
@@ -835,7 +835,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Umiarkowany klimat doliny jest idealnym domem dla różnorodnych leśnych stworzeń i owadów. Cóż za piękne miejce!",
+        "Text": "Umiarkowany klimat doliny jest idealnym domem dla różnorodnych leśnych stworzeń i owadów. Cóż za piękne miejsce!",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring1_8"
@@ -879,7 +879,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 2000/playSound rainsound/pause 1000",
-        "Text": "'Słyszałeś? Myślę, że pochodzi z tamtąd... Chodźmy....'",
+        "Text": "'Słyszałeś? Myślę, że pochodzi stamtąd... Chodźmy....'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall1_2"

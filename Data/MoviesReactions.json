@@ -111,7 +111,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Trochę się denerwuje... zazwyczaj nie oglądam horrorów.$s"
+            "Text": "Trochę się denerwuje... Zazwyczaj nie oglądam horrorów.$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -153,7 +153,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hej, wiele osób mi ten film polecało!"
+            "Text": "Hej, wiele osób mi polecało ten film!"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -292,7 +292,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*Ekkhem*... Witaj! Jestem bardzo podekscytowany, że mogę być w centrum rozrywki wizualnej i jeść prażoną kukurydzę... tak jak ty!$8#$b#*szept*... jak mi idzie?$8"
+            "Text": "*Ekkhem*... Witaj! Jestem bardzo podekscytowany, że mogę być w centrum rozrywki wizualnej i jeść prażoną kukurydzę... Tak jak ty!$8#$b#*szept*... Jak mi idzie?$8"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -345,7 +345,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Odciągasz mnie od moich badań na takie coś*?"
+            "Text": "Odciągasz mnie od moich badań na takie coś?"
           }
         },
         "ID": "reaction_0"
@@ -384,7 +384,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "W gazecie dali temu '5 gwiazdek', więc dam temu szansę."
+            "Text": "W gazecie dali temu '5 gwiazdek', pozwolę sobie sam go ocenić."
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -422,7 +422,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmph... chyba się drzemne."
+            "Text": "Hmph... chyba się zdrzemnę."
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -485,7 +485,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było świetne! W nogach wciąż mi mrowi z podniecenia."
+            "Text": "To było świetne! W nogach wciąż mnie mrowi z podniecenia."
           }
         },
         "ID": "reaction_3"
@@ -580,7 +580,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Cieszę się, że nadal robią przyzwoite filmy... miło mi się oglądało!"
+            "Text": "Cieszę się, że nadal robią przyzwoite filmy... Miło mi się oglądało!"
           }
         },
         "ID": "reaction_3"
@@ -634,7 +634,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! Tego się nie spodziewałem, ale w sumie spodobało mi się! Przywiązałem się do Wumbus'a.$h"
+            "Text": "Hah! Tego się nie spodziewałem, ale w sumie spodobało mi się! Przywiązałem się do Wumbusa.$h"
           }
         },
         "ID": "reaction_1"
@@ -647,13 +647,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Zazwyczaj cały czas pracuję, dlatego miło jest czasami porobić coś takiego."
+            "Text": "Zazwyczaj cały czas pracuję, miło jest czasami pójść na seans."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nie źle! Zastanawiam się, czy mamy jakieś towary, które mógłbym zacząć sprzedawać..."
+            "Text": "Nieźle! Zastanawiam się, czy mają jakieś towary, które mógłbym zacząć sprzedawać..."
           }
         },
         "ID": "reaction_2"
@@ -695,7 +695,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Cóż, aktorstwo było okropne, ale nadal się dobrze bawiłam.$h"
+            "Text": "Cóż, gra aktorska była okropna, ale nadal się dobrze bawiłam.$h"
           }
         },
         "ID": "reaction_2"
@@ -718,7 +718,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było bardzo interesujące. Najbardziej podobały mi się szopy... są takie słodkie!$h"
+            "Text": "To było bardzo interesujące. Najbardziej podobały mi się szopy... Są takie słodkie!$h"
           }
         },
         "ID": "reaction_3"
@@ -783,7 +783,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*ziew*... to było nudne, no nie?$6"
+            "Text": "*ziew*... To było nudne, no nie?$6"
           }
         },
         "ID": "reaction_6"
@@ -821,7 +821,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było wspaniałe! Na prawdę wyglądał jak autentyk, z tymi kostiumami, i resztą."
+            "Text": "To było wspaniałe! Naprawdę wyglądał jak autentyk, z tymi kostiumami, i resztą."
           }
         },
         "ID": "reaction_2"
@@ -876,7 +876,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mam takie przeczucie, że ten będzie rozczarowaniem... ale nadal chcę m dać szansę."
+            "Text": "Mam takie przeczucie, że ten będzie rozczarowaniem... Ale nadal chcę dać mu szansę."
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -900,7 +900,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Denerwuję się tym... *przełknięcie*"
+            "Text": "Troszkę się denerwuję... *przełknięcie*"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -910,7 +910,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mam lęk wysokości, więc te zdjęcia lotnicze na prawdę do mnie dotarły... Jednakże, dobrze się bawiłem.$h"
+            "Text": "Mam lęk wysokości, więc te zdjęcia lotnicze naprawdę do mnie trafiły... Ale i tak dobrze się bawiłem.$h"
           }
         },
         "ID": "reaction_3"
@@ -990,13 +990,13 @@
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Harvey 3000/pause 500/message \"Ciśnienie Harvey'a gwałtownie rośnie!\"",
+            "Script": "/shake Harvey 3000/pause 500/message \"Ciśnienie Harveya gwałtownie rośnie!\"",
             "Text": "Słabo mi...$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Po tym filmie czuje się fatalnie...$s"
+            "Text": "Jakoś mi słabo po tym filmie...$s"
           }
         },
         "ID": "reaction_6"
@@ -1014,7 +1014,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Widziałem reklamę tego w telewizji. Wyglądało zabawnie!"
+            "Text": "Widziałem reklamę w telewizji. Wyglądało zabawnie!"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -1039,7 +1039,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było budujące... i jakoś sprawia, że ten legendarny owoc wydaje się tak pyszny. Chciałbym go kiedyś spróbować."
+            "Text": "To podniosło mnie na duchu... I jakoś sprawia, że ten legendarny owoc wydaje się tak pyszny. Chciałbym go kiedyś spróbować."
           }
         },
         "ID": "reaction_1"
@@ -1052,7 +1052,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mówią, że ten film jest 'niekonwencjonalny'... czy to znaczy, że jest zły?$s"
+            "Text": "Mówią, że ten film jest 'niekonwencjonalny'... Czy to znaczy, że jest zły?$s"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -1071,13 +1071,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*niuch* *niuch* ... Czuje coś smacznego..."
+            "Text": "*niuch* *niuch*... Czuję coś smacznego..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nie było najgorzej. Cieszę się, że wpadłem!"
+            "Text": "Nie było najgorzej. Cieszę się, że przyszedłem!"
           }
         },
         "ID": "reaction_2"
@@ -1124,7 +1124,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Fantastyczne! Na prawdę sprawili, że Dolina Stardew wygląda pięknie, prawda? Gdyby tylko przedstawili Miasto Pelikan...$h"
+            "Text": "Fantastyczne! Naprawdę sprawili, że Dolina Stardew wygląda pięknie, prawda? Gdyby tylko pokazali Miasto Pelikan...$h"
           }
         },
         "ID": "reaction_4"
@@ -1183,7 +1183,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Huh... Zastanawiam się, czy przesłanie tego filmu jest dobre dla naszej społeczności?"
+            "Text": "Huh... Zastanawiam się, czy przesłanie tego filmu jest dobre dla naszej społeczności."
           }
         },
         "ID": "reaction_6"
@@ -1208,13 +1208,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Widziałam raz ten film, dawno temu. Jest bardzo romantyczny!"
+            "Text": "Dawno temu widziałam ten film. Jest bardzo romantyczny!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było cudowne... Temat tego filmu na prawdę do mnie dotarł. Dziękuje za zaproszenie!"
+            "Text": "To było cudowne... Temat tego filmu naprawdę do mnie trafił. Dziękuje za zaproszenie!"
           }
         },
         "ID": "reaction_1"
@@ -1281,13 +1281,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Więc lubisz straszne filmy, hę? Jestem trochę zaskoczony!"
+            "Text": "Lubisz straszne filmy, hę? Jestem trochę zaskoczony!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było nawet dobre! Zazwyczaj nie boję się filmów, ale ten mnie tak troszeczkę... Raczej nie wezmę na ten film Vincent'a."
+            "Text": "To było nawet dobre! Zazwyczaj nie boję się filmów, ale ten mnie tak troszeczkę... Raczej nie pokazałbym tego Vincentowi."
           }
         },
         "ID": "reaction_2"
@@ -1306,7 +1306,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To nie było takie złe! Może zaproszę na ten film Vincent'a."
+            "Text": "To nie było takie złe! Może zaproszę na ten film Vincenta."
           }
         },
         "ID": "reaction_3"
@@ -1324,7 +1324,7 @@
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/message Sam \"Sam gra na swojej przenośnej konsoli.\"",
-            "Text": "Hę? Oh! Ta... Ten film jest... interesujący...$10"
+            "Text": "Hę? Oh! Ta... Ten film jest... Interesujący...$10"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -1398,7 +1398,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "A... Ale... ten film jest dla dorosłych, prawda?$s"
+            "Text": "A... Ale... Ten film jest dla dorosłych, prawda?$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -1408,7 +1408,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było nudne... nic z tego nie zrozumiałem.$s"
+            "Text": "To było nudne... Nic z tego nie zrozumiałem.$s"
           }
         },
         "ID": "reaction_5"
@@ -1433,12 +1433,12 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Dzięki za zaproszenie, @. Ciężko mi wrócić do cywilnego stylu życia, ale dzięki tobie, czuję się jak w domu."
+            "Text": "Dzięki za zaproszenie, @. Ciężko mi wrócić do życia cywila, ale dzięki tobie, czuję się jak w domu."
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/emote Kent 32/message \"Kent ma rzadki uśmiech na twarzy.\"",
-            "Text": "To jest świetne... przypomina mi o prostych czasach...$h"
+            "Text": "To jest świetne... Przypomina mi o prostych czasach...$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -1460,7 +1460,7 @@
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Kent 28/message \"Kent'a przelewa zimny pot...\"",
+            "Script": "/emote Kent 28/message \"Kenta przelewa zimny pot...\"",
             "Text": ""
           },
           "AfterMovie": {
@@ -1484,7 +1484,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ten film to romans, tak? *wzdech*$s"
+            "Text": "Ten film to romans, tak? *ehh*$s"
           },
           "DuringMovie": {
             "ResponsePoint": "guyEnters",
@@ -1512,7 +1512,7 @@
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/message \"Clint bierze łyka z nieoznakowanej butelki.\"",
-            "Text": "To tylko... *czkawka*... Joja Cola.$h^*szepcze*...Jeśli jesteś, em... zmęczona... możesz położyć swoją głowę na mo... moim ramieniu. Heh... albo nie!$4"
+            "Text": "To tylko... *czkawka*... Joja Cola.$h^*szepcze*...Jeśli jesteś, em... Zmęczona... Możesz położyć swoją głowę na mo... moim ramieniu. Heh... Albo nie!$4"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -1549,13 +1549,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Zjadłam całą garść orzechów, żeby przygotować się do tego filmu... jedzenie dla mózgu!"
+            "Text": "Zjadłam całą garść orzechów, żeby przygotować się do tego filmu... Jedzenie dla mózgu!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Czuje się trochę mądrzejsza niż wcześniej... a ty?"
+            "Text": "Czuje się trochę mądrzejsza niż wcześniej... A ty?"
           }
         },
         "ID": "reaction_3"
@@ -1574,7 +1574,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ten film był w pewnym sensie bardzo uduchowiony... prawda? Podobało mi się!$h"
+            "Text": "Ten film był w pewnym sensie bardzo uduchowiony... Prawda? Podobało mi się!$h"
           }
         },
         "ID": "reaction_2"
@@ -1587,13 +1587,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Z chęcią zobaczę z tobą film! Zwykle całkowicie się gubię w ekranie."
+            "Text": "Z chęcią zobaczę z tobą film! Zwykle całkowicie się gubię w fabule."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Czuję się pozytywnie po tym filmie... czyli że to był dobry film!$h"
+            "Text": "Czuję po tym filmie pozytywną energie... Czyli że to był dobry film!$h"
           }
         },
         "ID": "reaction_4"
@@ -1616,7 +1616,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Poziomy mojej energii są niskie po tym filmie...$3"
+            "Text": "Po tym filmie poziomy mojej energii są bardzo niskie...$3"
           }
         },
         "ID": "reaction_5"
@@ -1653,13 +1653,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mmm... jest tu bardzo ciepło i przyjemnie. Zima to moja ulubiona pora, żeby pójść na film.$h"
+            "Text": "Mmm... Jest tu bardzo ciepło i przyjemnie. Zima to moja ulubiona pora, żeby pójść na film.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Cieszę się, że to się dobrze skończyło!"
+            "Text": "Cieszę się, że dobrze się skończyło!"
           }
         },
         "ID": "reaction_4"
@@ -1699,7 +1699,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*ziew*... Co? Oh... jeszcze raz, o czym był ten film?$7"
+            "Text": "*ziew*... Co? Oh... Jeszcze raz, o czym był ten film?$7"
           }
         },
         "ID": "reaction_5"
@@ -1736,12 +1736,12 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hej, @! Nie mogę się doczekać tego filmu... mam nadzieję, że dużo się z niego nauczę!$h"
+            "Text": "Hej, @! Nie mogę się doczekać tego filmu... Mam nadzieję, że dużo się z niego nauczę!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/emote Maru 32/playSound reward/message \"Maru pisze notatki!\"",
-            "Text": "Ah, rozumiem... to bardzo ciekawe!"
+            "Text": "Ah, rozumiem... To bardzo ciekawe!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -1765,7 +1765,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Cóż, jeszcze nigdy nie widziałam czegoś *takiego* przez mój teleskop... ale to było świetne!$h"
+            "Text": "Cóż, jeszcze nigdy nie widziałam czegoś *takiego* przez mój teleskop... Ale to było świetne!$h"
           }
         },
         "ID": "reaction_3"
@@ -1823,11 +1823,11 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hej. Słyszałem, że ten film jest mroczny... nie mogę się doczekać.$h"
+            "Text": "Hej. Słyszałem, że ten film jest mroczny... Nie mogę się doczekać.$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Sebastian 32/message \"Sebastian uśmiecha się.\"",
+            "Script": "/emote Sebastian 32/message \"Sebastian się uśmiecha.\"",
             "Text": "Ta kinematografia jest na wyższym poziomie."
           },
           "AfterMovie": {
@@ -1852,7 +1852,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nie był taki najlepszy, ale dobrze się bawiłem... dzięki za zaproszenie."
+            "Text": "Nie był taki najlepszy, ale dobrze się bawiłem... Dzięki za zaproszenie."
           }
         },
         "ID": "reaction_4"
@@ -1871,7 +1871,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To pewnie dobry film dla osób, które takie coś lubią, po prostu to nie jest dla mnie."
+            "Text": "To dobry film dla osób, które takie coś lubią, to nie jest dla mnie."
           }
         },
         "ID": "reaction_5"
@@ -1949,7 +1949,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Sztuka filmowa przeszła długą drogę od dawnych czasów, prawda?"
+            "Text": "Sztuka filmowa przeszła długą drogę, prawda?"
           }
         },
         "ID": "reaction_0"
@@ -1968,7 +1968,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wspaniały film... ale zastanawiam się, czy jest życie poza tą planetą?"
+            "Text": "Wspaniały film... Ale zastanawiam się, czy jest życie poza tą planetą?"
           }
         },
         "ID": "reaction_1"
@@ -1981,7 +1981,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ten jest bliski mojemu sercu... wiesz, że mi się spodoba.$h"
+            "Text": "Ten jest bliski mojemu sercu... Wiedz, że mi się spodoba.$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -2004,13 +2004,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Przeczytałem o tym w gazecie... może i nie jest dla mnie. Ale warto spróbować."
+            "Text": "Przeczytałem o tym w gazecie... Może i nie jest dla mnie. Ale warto spróbować."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nonsens! To było całkowicie nienaukowe!$4"
+            "Text": "Nonsens! Widać że twórcy nie są naukowcami!$4"
           }
         },
         "ID": "reaction_4"
@@ -2087,7 +2087,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nie jestem przyzwyczajony do takich symulacji... wybacz, jeśli byłem rozczarowującym gościem, @. Nadal doceniam twoje zaproszenie!"
+            "Text": "Nie jestem przyzwyczajony do takich symulacji... Wybacz, jeśli byłem rozczarowującym gościem, @. Nadal doceniam twoje zaproszenie!"
           }
         },
         "ID": "reaction_2"
@@ -2122,7 +2122,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nic z tego nie zrozumiałem, ale migające światła były hipnotyzujące!"
+            "Text": "Nic z tego nie zrozumiałem, ale migające światła były ciekawe!"
           }
         },
         "ID": "reaction_1"
@@ -2166,13 +2166,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Tak w sumie... to nie ma takiego filmu, którego bym nie polubiła!"
+            "Text": "Tak w sumie... To nie ma takiego filmu, którego bym nie polubiła!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Dobrze się bawiłam, @! Dziękuję ci za pamięć."
+            "Text": "Dobrze się bawiłam, @! Dziękuję za zaproszenie."
           }
         },
         "ID": "reaction_2"
@@ -2190,17 +2190,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Buh... Ta, to może być dobre. *niuch* *niuch* ... przekąska może pomóc."
+            "Text": "Buh... Ta, to może być dobre. *niuch* *niuch*... przekąska może pomóc."
           },
           "DuringMovie": {
             "ResponsePoint": "PK_villain",
             "Script": "",
-            "Text": "Jestem za złą stroną... *beknięcie*"
+            "Text": "Kibicuje złej stronie... *beknięcie*"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Okej, muszę przyznać... w sumie to było nawet dobre."
+            "Text": "Okej, muszę przyznać... W sumie to było nawet dobre."
           }
         },
         "ID": "reaction_4"
@@ -2264,13 +2264,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Buh... Ta, to może być dobre. *niuch* *niuch* ... przekąska może pomóc."
+            "Text": "Buh... Ta, to może być dobre. *niuch* *niuch*... Przekąska może pomóc."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Okej, muszę przyznać... w sumie to było nawet dobre."
+            "Text": "Okej, muszę przyznać... W sumie to było nawet dobre."
           }
         },
         "ID": "reaction_6"
@@ -2283,11 +2283,11 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ugh... to będzie bolesne."
+            "Text": "Ugh... To będzie bolesne."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Shane 28/message \"Shane załamał się...\"",
+            "Script": "/emote Shane 28/message \"Shane się załamał...\"",
             "Text": ""
           },
           "AfterMovie": {
@@ -2365,7 +2365,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "To było dobre! Miało... um... dobry 'di-al-ogi'! ...prawda?"
+            "Text": "To było dobre! Miało... um... dobre 'di-al-ogi'! ...Prawda?"
           }
         },
         "ID": "reaction_4"
@@ -2573,7 +2573,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Czuję, że moja dusza jest wypełniona... jakby cała energia pochodząca z filmu, przeniosła się w moje ciało. Niesamowite!"
+            "Text": "Czuję, że moja dusza jest wypełniona... Jakby cała energia pochodząca z filmu, przenikła w moje ciało. Niesamowite!"
           }
         },
         "ID": "reaction_3"
@@ -2592,7 +2592,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Bardzo interesujące... będę rozmyślać o tym przez chwilę."
+            "Text": "Bardzo interesujące... Będę rozmyślać o tym przez dłuższą chwilę."
           }
         },
         "ID": "reaction_4"
@@ -2677,7 +2677,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Widzisz to? Po kazali wyspy paproci... mieszkałem tam!$h"
+            "Text": "Widzisz to? Pokazali wyspy paproci... Mieszkałem tam!$h"
           }
         },
         "ID": "reaction_3"
@@ -2700,7 +2700,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wow... to było jak magia!"
+            "Text": "Wow... To było jak magia!"
           }
         },
         "ID": "reaction_4"
