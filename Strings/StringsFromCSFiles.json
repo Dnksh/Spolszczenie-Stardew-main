@@ -2220,7 +2220,7 @@
   "Debuff_Weakness_Description": "-20 Ataku",
   "Deconstructor_fail": "Ten przedmiot nie może być rozebrany.",
   "HorseFlute_NoHorse": "Nie masz konia.",
-  "HorseFlute_InvalidLocation": "Nie możesz przywołać swojego konia tutaj.",
+  "HorseFlute_InvalidLocation": "Nie możesz przywołać swojego konia w tym miejscu.",
   "HorseFlute_NoClearance": "Za mało miejsca, żeby przywołać konia.",
   "TV_IslandWeatherIntro": "...I nasza specjalna prognoza dla regionu Wysp Paprociowych: ",
   "Seasoning_UsedLast": "Nie masz już przyprawy Qi.",
