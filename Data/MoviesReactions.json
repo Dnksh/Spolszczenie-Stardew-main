@@ -320,7 +320,7 @@
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Widzisz błysk w oku Czarownika...\"",
+            "Script": "/message \"Widzisz błysk w oku Czarodzieja...\"",
             "Text": "I pomyśleć, że laik nie wiedział, że to wszystko jest surowe, realistyczne!"
           },
           "AfterMovie": {
