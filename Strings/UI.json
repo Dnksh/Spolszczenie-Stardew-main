@@ -219,7 +219,7 @@
   "LevelUp_ProfessionName_Tapper": "Żywiczarz",
   "LevelUp_ProfessionDescription_Tapper": "Syropy warte 25% więcej.",
   "LevelUp_ProfessionName_Botanist": "Botanik",
-  "LevelUp_ProfessionDescription_Botanist": "Zebrane przedmioty są zawsze lepszej jakości.",
+  "LevelUp_ProfessionDescription_Botanist": "Zebrane przedmioty są zawsze najlepszej jakości.",
   "LevelUp_ProfessionName_Tracker": "Tropiciel",
   "LevelUp_ProfessionDescription_Tracker": "Ukazuje lokacje rzeczy do zbierania.",
   "LevelUp_ProfessionName_Miner": "Górnik",
@@ -300,7 +300,7 @@
   "OptionsPage_ScreenshotHeader": "Zrzut Ekranu:",
   "Client_RemotelyDisconnected": "Serwer Zamknięty.",
   "Carpenter_CantDemolish_FarmhandOnline": "Nie można zniszczyć, gdy właściciel jest online",
-  "Carpenter_DemolishCabinConfirm": "To na zawsze usunie {0} z gry. Na pewno chcesz zniszczyć tą kabinę?",
+  "Carpenter_DemolishCabinConfirm": "To na zawsze usunie {0} z gry. Na pewno chcesz zniszczyć tę kabinę?",
   "Client_WaitForHostAvailability": "Czekanie na koniec wydarzenia właściciela...",
   "Client_WaitForHostLoad": "Oczekiwanie na hosta...",
   "Chat_UnknownUserName": "???",
@@ -769,7 +769,7 @@
   "Chat_Eternal3": "W oddali słychać dudnienie...",
   "NameChange_EasterEgg1": "ConcernedApe: Co to ma być za nazwa? Podejrzane...",
   "NameChange_EasterEgg2": "Pan Qi: Ma być łatwo {0}, hę? jestem rozczarowany, dzieciaku. Myślałem, że chcesz pokonać tę grę fair?",
-  "NameChange_EasterEgg3": "*Dziadek kiwa głową z dezaprobatą... 'Zbudowałem tą farmę w starym stylu, nie z nieskończoną ilością: {0}...'",
+  "NameChange_EasterEgg3": "*Dziadek kiwa głową z dezaprobatą... 'Zbudowałem tę farmę w starym stylu, nie z nieskończoną ilością: {0}...'",
   "NameChange_EasterEgg4": "ConcernedApe jest zły, bo próbujesz oszukiwać...",
   "NameChange_EasterEgg5": "ConcernedApe: Tak naprawdę to nie jestem zły... baw się dobrze.",
   "NameChange_EasterEgg6": "Do wszystkich jednostek! Do wszystkich jednostek! Mamy złodzieja {0} {1} na wolności!",
@@ -799,5 +799,6 @@
   "AGO_EasyMode": "Poziom Łatwy",
   "AGO_EasyMode_Tooltip": "Sprawia, że niektóre aspekty gry będą łatwiejsze, i redukuje kary.",
   "ParrotPlatform_Question": "Użyć Ekspresu Papug?",
-  "PlayerLimit": "Limit Graczy"
+  "PlayerLimit": "Limit Graczy",
+  "DisplayAdjustmentText": "Naciśnij góra/dół aby dostosować rozmiar ekranu do twojej rozdzielczości."
 }

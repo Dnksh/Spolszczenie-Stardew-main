@@ -1,0 +1,10 @@
+{
+ "House": "Budynek/-50 -10/Dach/-25 0/Wykończenie/-25 -8/",
+ "Log Cabin": "Budynek/-20 20/Dach/-15 5/Wykończenie/-10 5",
+ "Stone Cabin": "Budynek/-15 25/Dach/-15 5/Wykończenie/-5 5",
+ "Plank Cabin": "Budynek/-55 -20/Dach/-10 5/Wykończenie/-55 -30",
+ "Stable": "Budynek/-20 5/Dach/-25 0/Wykończenie/-15 0",
+ "Big Shed": "Budynek/-45 -10/Dach/-20 5/Wykończenie/-25 0",
+ "Deluxe Coop": "Budynek/-25 0/Dach/-15 5/Wykończenie/-25 0",
+ "Deluxe Barn": "Budynek/-15 0/Dach/-10 5/Wykończenie/-10 5/"
+    }

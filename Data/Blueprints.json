@@ -1,6 +1,6 @@
 {
   "Silo": "390 100 330 10 334 5/3/3/-1/-1/-2/-1/null/Silos/Pozwala ściąć trawę na siano do karmienia zwierząt./Buildings/none/48/128/-1/null/Farm/100/false",
-  "Mill": "388 150 390 50 428 4/4/2/-1/-1/-2/-1/null/Młyn/Pozwala na wytwarzanie mąki ze zboża oraz cukru z buraków./Buildings/none/64/128/-1/null/Farm/2500/false",
+  "Mill": "388 150 390 50 428 4/4/2/-1/-1/-2/-1/null/Młyn/Pozwala na wytwarzanie mąki z pszenicy a oraz cukru z buraków./Buildings/none/64/128/-1/null/Farm/2500/false",
   "Earth Obelisk": "337 10 86 10/3/2/-1/-1/-2/-1/null/Obelisk Ziemi/Teleportuje cię w góry./Buildings/none/48/128/-1/null/Farm/500000/true",
   "Water Obelisk": "337 5 372 10 393 10/3/2/-1/-1/-2/-1/null/Obelisk Wody/Teleportuje cię na plaże./Buildings/none/48/128/-1/null/Farm/500000/true",
   "Desert Obelisk": "337 20 88 10 90 10/3/2/-1/-1/-2/-1/null/Obelisk Pustyni/Teleportuje cię na pustynie./Buildings/none/48/128/-1/null/Farm/1000000/true",

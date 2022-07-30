@@ -61,7 +61,7 @@
   "taxPassed": "@,^Podatek transportowy minął. od dzisiaj, 3% podatku będzie pobierane z każdych twoich zarobków podczas sprzedaży. Zredukowana będzie również opłata za różne usługi. Do zobaczenia! ^   -Burmistrz[#]Zatwierdzenie Podatkowe",
   "taxRejected": "@,^Podatek za sprzedaż został wycofany. Twoje przychody ze sprzedaży zostaną takie jakie są. Podatek za usługi publiczne też zostanie taki sam. Do zobaczenia. ^   -Burmistrz[#]Zniesienie Podatku",
   "quest10": "@,^Słyszeliśmy, że pomagasz ludziom z miasteczka! Każdy z nas jest bardzo wdzięczny. Dlatego otrzymujesz nagrodę \"Najlepszy Sąsiad\" (Z małą nagrodą pieniężną). Tak trzymaj! ^   -Burmistrz%item money 500 501 %%[#]Najlepszy Sąsiad",
-  "quest35": "@,^Odkąd tu jesteś każdy opowiada mi o wspaniałych rzeczach, które dla nich robisz! Proszę przyjmij tą nagrodę w ramach podziękowania. ^   -Burmistrz%item money 2500 2501 %%[#]Podziękowania Od Lewisa",
+  "quest35": "@,^Odkąd tu jesteś każdy opowiada mi o wspaniałych rzeczach, które dla nich robisz! Proszę przyjmij tę nagrodę w ramach podziękowania. ^   -Burmistrz%item money 2500 2501 %%[#]Podziękowania Od Lewisa",
   "quest100": "@,^Z radością mogę ogłosić, że wybrano Cię jako \"Sąsiada roku\"! Do którego dołączona jest nagroda w wysokości 10,000 złota! Gratulacje! Każdy w mieście dziękuję Ci za wszystko. ^   -Burmistrz%item money 10000 10001 %%[#]Sąsiad Roku",
   "hero_update": "@,^to czas na ranking Bohatera Stardew! Wyniki załączyłem w oddzielnej kopercie. Powodzenia!  ^   -Burmistrz[#]Ranking Bohatera Stardew",
   "hero_update1": "%update",
