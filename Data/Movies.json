@@ -48,7 +48,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "O nie! Znienacka zaczęło padać...! Sadzonek zaczyna biec, gdy nad jego głową zbierają się burzowe chmury...",
+        "Text": "O nie! Znienacka zaczęło padać!... Sadzonek zaczyna biec, gdy nad jego głową zbierają się burzowe chmury...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_3"
@@ -59,7 +59,7 @@
         "Sound": "thunder",
         "MessageDelay": 1000,
         "Script": "",
-        "Text": "Obawiając się o życie, i zdemoralizowany przez nieustającą ulewę, sadzonek zaczyna tracić nadzieje...",
+        "Text": "Obawiając się o życie i zdemoralizowany przez nieustającą ulewę, sadzonek zaczyna tracić nadzieje...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_4"
@@ -70,7 +70,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "...A co to...? Sadzonek czuje mrowienie na czubku głowy... ",
+        "Text": "...A co to?... Sadzonek czuje mrowienie na czubku głowy... ",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_5"
@@ -80,7 +80,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/playSound coin/pause 1000/message \"Chyba potrzeba było trochę deszczu, aby zacząć swoją podróż do stania się drzewem!\"",
+        "Script": "/playSound coin/pause 1000/message \"Chyba wystarczyło trochę deszczu, aby zacząć swoją podróż do stania się drzewem!\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": "",
@@ -126,7 +126,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 1500",
-        "Text": "Słaba sylwetka stojąca w mroku...",
+        "Text": "Jakaś sylwetka stojąca w mroku...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall0_1"
@@ -214,7 +214,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/playSound shadowpeep",
-        "Text": "'MUSISZ powiedzieć przyjaciołom, żeby obejrzeli MYSTERIUM...'",
+        "Text": "'MUSISZ powiedzieć znajomym, żeby obejrzeli MYSTERIUM...'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall0_9"
@@ -302,7 +302,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Król Prerii słyszy ciche dudnienie w oddali... Patrz!",
+        "Text": "Król Prerii słyszy ciche dudnienie w oddali... Patrzcie!",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer0_5"
@@ -447,7 +447,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 800/playSound phone/pause 300",
-        "Text": "Wiele scen próbuje znaleźć humor w absurdzie współczesnego stylu życia.",
+        "Text": "Wiele scen próbuje ukazać absurdy współczesnego stylu życia w humorystyczny sposób.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer1_6"
@@ -458,7 +458,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Ale, pomimo niemal nieskończonych możliwości rozrywki Wumbus i jego przyjaciele nadal lubią zbierać się na pyszną 'pizzę' (uformowany w 100% z glutenu).",
+        "Text": "Ale, pomimo niemal nieskończonych możliwości rozrywki Wumbus i jego przyjaciele nadal lubią zbierać się na pyszną 'pizzę' (uformowaną w 100% z glutenu).",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer1_7"
@@ -569,7 +569,7 @@
     "ID": null,
     "SheetIndex": 5,
     "Title": "Cud W Coldstar",
-    "Description": "Wbrew wszelkim przeciwnością, rodzina utrzymuje ducha Zimowej Gwiazdy przy życiu...",
+    "Description": "Wbrew wszelkim przeciwnościom, rodzina utrzymuje ducha Zimowej Gwiazdy przy życiu...",
     "Tags": [
       "family",
       "classic"
@@ -592,7 +592,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "To Święto Gwiazdy Polarnej, i pada śnieg już od trzech tygodni.",
+        "Text": "To Święto Gwiazdy Polarnej i od trzech tygodni pada śnieg.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_1"
@@ -701,7 +701,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/specificTemporarySprite coldstarMiracle/pause 500/playSound discoverMineral/pause 3000/message \"Następnego dnia, Mama Coldstar dziwi się, że choinka jest przyozdobiona kosmicznym owocem.\"/pause 500/message \"'Uwierzyliśmy w Gwiazde Polarną, i o nas nie zapomniała!'\"",
+        "Script": "/pause 1000/specificTemporarySprite coldstarMiracle/pause 500/playSound discoverMineral/pause 3000/message \"Następnego dnia, Mama Coldstar dziwi się, że choinka jest przyozdobiona kosmicznym owocem.\"/pause 500/message \"'Uwierzyliśmy w Gwiazde Polarną i o nas nie zapomniała!'\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": null,
@@ -713,7 +713,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/specificTemporarySprite removeSprite 989",
-        "Text": "Wszyscy podzielili się owocem Stardrop. Pomimo tego, że jest mały, był najbardziej sycącym i najlepszym daniem jakie kiedykolwiek jedli.",
+        "Text": "Wszyscy podzielili się owocem Stardrop. Pomimo tego, że jest mały, najlepszym  i najbardziej sycącym daniem jakie kiedykolwiek jedli.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "winter0_12"
@@ -879,7 +879,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 2000/playSound rainsound/pause 1000",
-        "Text": "'Słyszałeś? Myślę, że pochodzi stamtąd... Chodźmy....'",
+        "Text": "'Słyszałeś? Ten dźwięk pochodzi stamtąd... Chodźmy....'",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall1_2"
