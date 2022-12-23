@@ -223,7 +223,7 @@
   "LevelUp_ProfessionName_Tracker": "Tropiciel",
   "LevelUp_ProfessionDescription_Tracker": "Ukazuje lokacje rzeczy do zbierania.",
   "LevelUp_ProfessionName_Miner": "Górnik",
-  "LevelUp_ProfessionDescription_Miner": "+1 samorodek na złoże rudy.",
+  "LevelUp_ProfessionDescription_Miner": "+1 dodatkowo wydobytej rudy z każdego złoża.",
   "LevelUp_ProfessionName_Geologist": "Geolog",
   "LevelUp_ProfessionDescription_Geologist": "Szansa, że klejnoty pojawią się w parach.",
   "LevelUp_ProfessionName_Blacksmith": "Kowal",
