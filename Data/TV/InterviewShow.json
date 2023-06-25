@@ -1,6 +1,6 @@
 {
-  "name": "Saturday Spotlight",
-  "intro": "0/Witajcie widzowie. Co tydzień podróżuję po kraju, aby poznać ludzi z różnych środowisk. Wspólnie poszerzamy horyzonty i poznajemy wyjątkowe kariery, style życia i perspektywy. Jestem Tom Laminar oglądacie 'Sobotnie Wiadomości'.",
-  "day": "Sob",
-  "6": "Sob"
+        "6": "Sat",
+        "name": "Saturday Spotlight",
+        "intro": "0/Hi there, viewers. Every week I travel around the country to meet people from all different walks of life. Together, we'll broaden our horizons and learn about unique careers, lifestyles, and perspectives. I'm Tom Laminar, and you're watching 'Saturday Spotlight'.",
+        "day": "Sat"
 }
