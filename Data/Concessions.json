@@ -2,7 +2,7 @@
   {
     "ID": 0,
     "Name": "Cotton Candy",
-    "DisplayName": "Wata Cukrowa",
+    "DisplayName": "Wata cukrowa",
     "Description": "Duża, różowa chmura wirowanego cukru.",
     "Price": 50,
     "ItemTags": [
@@ -13,7 +13,7 @@
   {
     "ID": 1,
     "Name": "Jasmine Tea",
-    "DisplayName": "Jaśminowa Herbata",
+    "DisplayName": "Jaśminowa herbata",
     "Description": "Zielona Herbata z aromatycznymi kwiatami jaśminu.",
     "Price": 50,
     "ItemTags": [
@@ -25,7 +25,7 @@
   {
     "ID": 2,
     "Name": "Joja Cola",
-    "DisplayName": "Joja Cola",
+    "DisplayName": "Joja cola",
     "Description": "Bardzo duży kubek flagowego napoju Joja.",
     "Price": 40,
     "ItemTags": [
@@ -37,7 +37,7 @@
   {
     "ID": 3,
     "Name": "Sour Slimes",
-    "DisplayName": "Kwaśne Szlamy",
+    "DisplayName": "Kwaśne szlamy",
     "Description": "Małe gumowe szlamy w różnych kolorach. Są posypane bardzo kwaśnym proszkiem.",
     "Price": 80,
     "ItemTags": [
@@ -48,7 +48,7 @@
   {
     "ID": 4,
     "Name": "Personal Pizza",
-    "DisplayName": "Mała Pizza",
+    "DisplayName": "Mała pizza",
     "Description": "Pizza wystarczająca na przekąskę.",
     "Price": 150,
     "ItemTags": [
@@ -71,7 +71,7 @@
   {
     "ID": 6,
     "Name": "Salmon Burger",
-    "DisplayName": "Łosoś Burger",
+    "DisplayName": "Łosoś burger",
     "Description": "Gruby kawałek łososia na lekko opieczonej bułce z sezamem.",
     "Price": 150,
     "ItemTags": [
@@ -82,7 +82,7 @@
   {
     "ID": 7,
     "Name": "Ice Cream Sandwich",
-    "DisplayName": "Lodowa Kanapka",
+    "DisplayName": "Lodowa kanapka",
     "Description": "Lody waniliowe między dwoma czekoladowymi ciastkami.",
     "Price": 150,
     "ItemTags": [
@@ -117,7 +117,7 @@
   {
     "ID": 10,
     "Name": "Chocolate Popcorn",
-    "DisplayName": "Czekoladowy Popcorn",
+    "DisplayName": "Czekoladowy popcorn",
     "Description": "Zwykły popcorn... W czekoladzie.",
     "Price": 130,
     "ItemTags": [
@@ -128,7 +128,7 @@
   {
     "ID": 11,
     "Name": "Black Licorice",
-    "DisplayName": "Czarna Lukrecja",
+    "DisplayName": "Czarna lukrecja",
     "Description": "Żelkowy cukierek o intensywnym ostrym smaku.",
     "Price": 25,
     "ItemTags": null
@@ -136,7 +136,7 @@
   {
     "ID": 12,
     "Name": "Star Cookie",
-    "DisplayName": "Gwiezdne Ciastko",
+    "DisplayName": "Gwiezdne ciastko",
     "Description": "Ciastko w kształcie gwiazdy z tęczową posypką.",
     "Price": 150,
     "ItemTags": [
@@ -157,7 +157,7 @@
   {
     "ID": 14,
     "Name": "Salted Peanuts",
-    "DisplayName": "Solone Orzeszki",
+    "DisplayName": "Solone orzeszki",
     "Description": "Klasyczny słony przysmak.",
     "Price": 120,
     "ItemTags": [
@@ -167,7 +167,7 @@
   {
     "ID": 15,
     "Name": "Hummus Snack Pack",
-    "DisplayName": "Zestaw Przekąsek Z Hummusem",
+    "DisplayName": "Zestaw przekąsek z hummusem",
     "Description": "Chrupiący i zdrowy.",
     "Price": 90,
     "ItemTags": [
@@ -177,7 +177,7 @@
   {
     "ID": 16,
     "Name": "Kale Smoothie",
-    "DisplayName": "Jarmużowy Koktajl",
+    "DisplayName": "Jarmużowy koktajl",
     "Description": "Załadowany witaminami i błonnikiem.",
     "Price": 120,
     "ItemTags": [
@@ -188,7 +188,7 @@
   {
     "ID": 17,
     "Name": "Apple Slices",
-    "DisplayName": "Kawałki Jabłka",
+    "DisplayName": "Kawałki jabłka",
     "Description": "Chrupiące i słodkie małe kawałeczki.",
     "Price": 100,
     "ItemTags": [
@@ -210,7 +210,7 @@
   {
     "ID": 19,
     "Name": "Truffle Popcorn",
-    "DisplayName": "Popcorn Truflowy",
+    "DisplayName": "Popcorn truflowy",
     "Description": "Popcorn z wyższej półki posypany truflową solą.",
     "Price": 180,
     "ItemTags": [
@@ -221,7 +221,7 @@
   {
     "ID": 20,
     "Name": "Cappuccino Mousse Cake",
-    "DisplayName": "Ciasto Z Musem Cappuccino",
+    "DisplayName": "Ciasto z musem cappuccino",
     "Description": "Mały czekoladowy placek polany kawowym musem.",
     "Price": 220,
     "ItemTags": [
@@ -242,7 +242,7 @@
   {
     "ID": 22,
     "Name": "Stardrop Sorbet",
-    "DisplayName": "Gwiezdny Sorbet",
+    "DisplayName": "Gwiezdny sorbet",
     "Description": "Jedna kropla esencji stardropa przekształca ten sorbet w niezwykłe danie.",
     "Price": 1250,
     "ItemTags": [
@@ -253,7 +253,7 @@
   {
     "ID": 23,
     "Name": "Rock Candy",
-    "DisplayName": "Kryształki Cukru",
+    "DisplayName": "Kryształki cukru",
     "Description": "Przyprawione kryształy cukru przyczepione do poręcznego patyka.",
     "Price": 90,
     "ItemTags": [
