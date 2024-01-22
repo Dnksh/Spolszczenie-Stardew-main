@@ -2,7 +2,7 @@
         "Robin": "Hejka!^Miałam w zapasie więcej drewna... Myślę, że może ci się przydać. Bądź zdrów!  ^   -Robin %item object 388 50 %%[#]Prezent od Robin",
         "Demetrius": "@,^Pewnego dnia prowadziłem badania w terenie i znalazłem taki oto okaz. ^Mam nadzieję, że Tobie również się to spodoba.    ^   -Demetrius%item object 392 1 394 1 132 1 66 1 %%[#]Prezent od Demetriusa",
         "Linus": "Witaj, przyjacielu.^Rzeki w górach były dla mnie ostatnio wyjątkowo życzliwe. Chciałbym się z Tobą podzielić moim szczęściem.  ^   -Linus %item object 136 1 143 1 202 1 227 1 228 1 %%[#]Prezent od Linusa",
-        "Pierre": "Szanowny kliencie,^Dziękujemy za odwiedzanie 'Sklepu u Pierre'! Dołączam twój rabat ze 'Zwracania Pieniędzy'. Do zobaczenia! ^   -Pierre^  P.S. Wybacz za tą formułkę, @. Mam nadzieję, że Ci się spodoba! %item money 250 601  %%[#]Prezent od Pierra",
+        "Pierre": "Szanowny kliencie,^Dziękujemy za odwiedzanie 'Sklepu u Pierre'! Dołączam twój rabat 'Cash-back'. Do zobaczenia! ^   -Pierre^  P.S. Wybacz za tą formułkę, @. Mam nadzieję, że Ci się spodoba! %item money 250 601  %%[#]Prezent od Pierra",
         "Caroline": "@,^Masz tu warzywo z mojego małego ogródka. Zapewne masz tyle warzyw, że nie wiesz co z nimi zrobić, ale no cóż.   ^   -Caroline%item object 190 1 192 1 24 1 %%[#]Prezent od Caroline",
         "George": "Znalazłem dobrej jakości kamień. ^Na pewno przyda ci się bardziej niż mnie.  ^   -George %item object 390 35 %%[#]Prezent od Georga",
         "Evelyn": "Witaj, drogie dziecko. Mam nadzieję, że dobrze sobie radzisz na tej Twojej farmie.^ Wysyłam małe co nieco z mojej kuchni... Mam nadzieję, że nie pokruszyło się na poczcie.  ^   -Evelyn  %item object 216 1 220 1 223 1 %%[#]Prezent od Evelyn",
