@@ -1072,7 +1072,7 @@
         "LoadGameMenu.cs.11019": "{0} Farma",
         "LoadGameMenu.cs.11020": "{0}zł",
         "LoadGameMenu.cs.11022": "Brak Zapisów",
-        "LoadGameMenu.cs.11023": "Naprawdę usunąć zapis: {0}?",
+        "LoadGameMenu.cs.11023": "Na pewno chcesz usunąć zapis {0}?",
         "MapPage.cs.11062": "Pustynia Calico",
         "MapPage.cs.11064": "{0} Farma",
         "MapPage.cs.11065": "Ostępy",
