@@ -1,6 +1,20 @@
-{
+ {
         "Introduction": "Jak ci minęła pierwsza noc?#$e#Twój dziadek narzekał na rozklekotane stare łóżko. Ale myślę, że w głębi duszy kochał ten dom.",
+        "AcceptGift_(O)StardropTea": "Spróbowałem wielu herbat w moim życiu, ale żadna z nich nie jest tak rzadka i wyjątkowa jak ta. Dziękuję!",
+        "AcceptBirthdayGift_Positive": "Ah, pamiętasz o urodzinach starego burmistrza. To bardzo miłe z twojej strony. Świetny prezent!$h",
+        "GreenRain": "Właśnie rozmawiałem z Gubernatorem... Podobno ten deszcz ma być zupełnie nieszkodliwy. Po prostu niezwykłe zjawisko naturalne.#$b#Aczkolwiek, niektórzy mieszkańcy panikują, a to nie jest dobre...",
+        "GreenRainFinished": "Cóż, było trochę nerwów dla naszego małego miasteczka! Cieszę się, że nikomu nic nie jest.$h#$e#Jeśli to się jeszcze kiedykolwiek zdarzy, raczej wszyscy będziemy odrobinkę spokojniejsi. To nie koniec świata!",
+        "GreenRain_2": "Najwidoczniej możemy spodziewać się takich deszczy co roku. Chyba każdy jest już troche spokojniejszy wiedząc, że to po prostu część natury.",
+        "AcceptBirthdayGift_Negative": "Ah, pamiętasz o urodzinach starego burmistrza... co to?$h#$b#Um... cóż wiesz jak to mówią, 'liczy się pamięć'.",
+        "cropMatured_24": "Hej, robiłem nocną rundkę i zauważyłem że pasternak ci urósł. Gratulacje!",
+        "cropMatured_254": "Te melony na farmie %farm wyglądały bardzo dobrze!$h#$b#Wiesz, że kiedyś była to jedna z ulubionych upraw twojego dziadka.",
+        "cropMatured_276": "Nic nie mówi 'Jesień' jak dynia, nie uważasz?",
         "Resort": "Jestem pod wrażeniem, @. Udało ci się naprawić to miejsce!$h",
+        "married": "Gratuluje, @. To wielki krok dla ciebie i twojej drugiej połówki. Nieźle się zakorzeniłeś na tej farmie!^Gratuluje, @. To wielki krok dla ciebie i twojej drugiej połówki. Nieźle się zakorzeniłaś na tej farmie!",
+        "married_twice": "Ponownie gratuluje, @.",
+        "divorced_once": "Wszystkie dokumenty rozwodowe zostały wypełnione. Przykro mi, że ci nie wyszło...",
+        "divorced_twice": "Kolejny rozwód? No weź, @... musisz uważać, z kim decydujesz się wziąć ślub...$u",
+        "movieTheater": "Cała młodzież wygląda na szczęśliwą, z racji tego nowego kina.#$e#Dobrze prosperujące kino będzie dobre dla lokalnej gospodarki. Mam tylko nadzieję, że w tych nowych filmach nie będzie jakichś nieodpowiednich treści!",
         "Resort_Leaving": "Wszyscy na pokład! Wracamy do doliny!",
         "Resort_Shore": "Szanse na wakacje takie jak te mogłyby rozwinąć lokalną ekonomię!#$e#Wolę nie stać za długo na słońcu, bo wąsy mi wyschną.",
         "Resort_Chair": "Hehe... Spójrz na to miejsce! nie wiem jak ci się to udało, ale wszyscy teraz o tym gadają.$h",
@@ -8,10 +22,12 @@
         "pamHouseUpgrade": "@, Słyszałem o Twojej hojności dla Pam i Penny... I *to* się nazywa wsparcie społeczności, na które aż miło popatrzeć w Mieście Pelikan!$h",
         "pamHouseUpgradeAnonymous": "@, znasz już nowinkę? Ktoś zapłacił Robin, żeby zbudowała dom dla Pam i Penny! Ale Robin nie powie mi kto to ufundował.#$e#Bez względu na to kto zapłacił, Uwielbiam, gdy społeczność Miasta Pelikan wspiera innych w potrzebie!$h",
         "willyCrabs": "*Niuch*... *niuch*... Czujesz to? Czuć tu świeżego kraba...$u",
-        "cc_Begin": "*niuch*... *niuch*... Ah, wyczuwam, że spędzasz czas w starym Domu Kultury. Dobrze, że ktoś próbuje się zająć tym miejscem.",
+        "cc_Begin": "*niuch*... *niuch*... Ah, czuję, że spędzasz czas w starym Domu Kultury. Dobrze, że ktoś próbuje się zająć tym miejscem.",
         "cc_Complete": "Nigdy nie czułem nadmiernej dumy w naszej społeczności. Wyświadczasz Miastu Pelikan wielką przysługę, @.$h",
+        "cc_Bridge": "W jakiś sposób, ten stary most do kamieniołomu jest naprawiony.#$b#Jestem w szoku... Do jego naprawy potrzebna by była przynajmniej cała ekipa!#$b#Ciekawe kto go naprawił?",
         "cc_Bus": "@, znasz już nowinkę? W nocy autobus znowu zaczął działać!$h#$b#Ten staroć był zepsuty od dekad. Dziwne, że nagle zaczął działać.",
-        "joja_Begin": "Cóż, stary Dom Kultury przepadł... Widocznie czasy się zmieniają, dobre rzeczy przychodzą i odchodzą... Niestety nie mogę pomóc, ale i tak czuje stratę.$s#$e#Mam nadzieję, że nie odbije się to na moim stanowisku burmistrza.$s",
+        "joja_Begin": "Cóż, stary Dom Kultury przepadło... Widocznie czasy się zmieniają, dobre rzeczy przychodzą i odchodzą... Niestety nie mogę pomóc, ale i tak czuje stratę.$s#$e#Mam nadzieję, że nie odbije się to na moim stanowisku burmistrza.$s",
+        "wonGrange": "Gratuluje wygranej na targach.#$e#Hehe... Tak między nami, myślę, że Pierre potrzebował miskę pełną budyniu pokory!$h",
         "Mon": "To bardzo dobra pora na pielęgnacje ogródka, nawet dla nas nie farmerów.#$e# Nasze miasteczko jest znane z najlepszych wiosennych kwiatów!$h",
         "Tue": "Włóż wszystko co pójdzie na sprzedaż do tego dużego pudła obok twojego domu.#$e#Ciekawe jakie rzeczy możesz tam dać.",
         "Saloon_Entry": "Cześć, Gus!",
@@ -54,4 +70,4 @@
         "winter_Fri": "Mam nadzieję że na Twojej farmie wszystko dobrze się układa.",
         "winter_Fri6": "Nigdy nie byłem żonaty. Nie mam rodziny. Żyję tylko po to, żeby być burmistrzem.$s#$e#Czy warto?$s#$e#...*ehh*...$s",
         "winter_Sun": "Witaj, @! Jak się dzisiaj miewasz?$h#$e#Pozdrów ode mnie Marnie."
-}
+    }

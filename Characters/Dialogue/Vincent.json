@@ -1,8 +1,16 @@
 {
         "Introduction": "Oh, nieznajomy! Jestem Vincent.#$b#Mama mówi, żeby nie rozmawiać z nieznajomymi... Ale ty wydajesz się w porządku.",
+        "AcceptBirthdayGift_Positive": "Czy to prezent urodzinowy? Mogę go już otworzyć?#$b#Oł, wow! Właśnie tego chciałem! Jupi!$h",
+        "AcceptBirthdayGift_Negative": "Prezent urodzinowy? Oh... to nie jest fajne.$s",
+        "AcceptGift_(O)StardropTea": "Wow! bardzo słodka! Mmmmm....",
+        "AcceptGift_(TR)FrogEgg": "*Gniot* *gniot* ... Fuuj! Mogę to zatrzymać? Mogę mogę mogę? Jeeej!$h",
+        "GreenRain": "Mamo! Chcę iść na pole się pobawić!%noturn",
+        "GreenRain_2": "%Vincent jest cały we mchu.",
+        "AcceptGift_alcohol_item": "*niuch*... co to? Ale śmierdzi... Mamooo!!!$s",
         "Resort_Entering": "Fajnie było! Kiedyś chciałbym zostać kapitanem statku!",
         "Resort_Leaving": "Chcę tu za niedługo wrócić!",
         "Resort_Shore": "Chcę zobaczyć rekina!$h",
+        "married_Sam": "Nie zabieraj mi braciszka!$s",
         "Resort": "Jeśli uważnie się przypatrzysz, zobaczysz małe robaki wyskakujące z piasku.$h",
         "reject_869": "Oooh! Fajne!#$b#Niestety mama mi nie pozwoli go zatrzymać...$s",
         "Mon": "Gdy dorosnę, chcę być taki jak mój brat!$h#$e#Okej! Pa!",
@@ -18,4 +26,4 @@
         "Sat8": "$d kent#Tata dziwnie się zachowuje odkąd wrócił. Co się z nim stało?$s#$b#Już się ze mną nie bawi.$s|Zastanawiam się czy tata wróci kiedyś do domu...$s",
         "Sun": "Cześć, proszę pana!^Cześć, proszę pani.",
         "Sun10": "Cześć wujku @!^Cześć ciociu @!#$e#Nie mów mojej mamie... Ale jesteś moim ulubionym dorosłym.$h"
-}
+    }

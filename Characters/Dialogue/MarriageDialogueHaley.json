@@ -16,7 +16,7 @@
         "Indoor_Day_0": "Dzień dobry! Jak ci się spało?$h#$e#Może wyciągnę stary aparat... Oświetlenie jest po prostu wspaniałe.",
         "Indoor_Day_1": "Dzień dobry, kochanie! Ładnie pachnie? Zrobiłam ci śniadanie! [194 195 210 211 216]#$e#Wiem, że masz dużo roboty. Jestem tu by cię wspierać!",
         "Indoor_Day_2": "Dobrze ci się spało? Trochę chrapiesz.$h#$e#Mam tu parę rzeczy do załatwienia. Miłego dnia.",
-        "Indoor_Day_3": "Cieszę się, że polubiłam sprzątać! Ten dom łatwo się brudzi.$10#$e#Lubię jak wszystko aż lśni.#$e#Mogę dostać buziaka zanim wyjdziesz?$11",
+        "Indoor_Day_3": "Cieszę się, że polubiłam sprzątanie! Ten dom łatwo się brudzi.$10#$e#Lubię jak wszystko aż lśni.#$e#Mogę dostać buziaka zanim wyjdziesz?$11",
         "Indoor_Day_4": "Dzień dobry, kochanie. Kolejny dzień obowiązków, hę?#$e#Będę o tobie myśleć. <$h",
         "Indoor_Day_Haley": "Zanim cię poznałam to czułam, że nie mam celu w życiu. Teraz mam, czego chciałam.$l",
         "Indoor_Night_Haley": "Widać, że ciężko pracujesz, kochanie. Pomogę ci się odstresować.$l",
@@ -43,4 +43,4 @@
         "summer_Haley": "Uwielbiam oglądać świetliki w ciepłe, letnie noce. Przynajmniej tak mogę zobaczyć gwiazdy z bliska.",
         "fall_Haley": "Nawet jeśli wolę lato, jesień może być najlepszą porą roku na robienie zdjęć. Te długie cienie...",
         "winter_Haley": "Pamiętam jak nie mogłam raz otworzyć słoika ogórków. Pamiętasz?$h#$e#Wiele minęło od tego momentu.$l"
-}
+    }

@@ -1,5 +1,7 @@
 {
         "Mon": "Cześć... Wszystko gra?",
+        "AcceptGift_(O)StardropTea": "Wow, smakuje dokładnie jak złote orzechy! To wspaniale!",
+        "AcceptGift_(TR)ParrotEgg": "To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłeś, zaopiekuję się nim.^To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłaś, zaopiekuję się nim.",
         "Mon4": "Wszystko co wiem nauczyły mnie papugi...#$b#Ale na pewno jest więcej rzeczy na tym świecie, których nie wiem.$s",
         "Tue": "Gdy słońce się gniewa, w dżungli jesteśmy bezpieczni.#$e#Nie znajdzie nas w zaroślach. Przechytrzyłem je! Haha...$h",
         "Wed": "...Wybacz... nie chcę dzisiaj rozmawiać.$3",
@@ -9,4 +11,4 @@
         "Fri3": "Ciekawe czy twój dom jest widoczny z czubka wulkanu?",
         "Sat": "...Mam zły dzień.$s#$e#A ty idź... baw się. Zostaw mnie samego.$s",
         "Sun": "Gdy pada deszcz, przedziwne ptaki przylatują.#$b#Próbuję z nimi rozmawiać... ale one po prostu odlatują.$s#$b#Najwyraźniej nie chcą się ze mną zaprzyjaźnić...$s"
-}
+    }

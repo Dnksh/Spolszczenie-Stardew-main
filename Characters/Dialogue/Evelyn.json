@@ -1,6 +1,16 @@
 {
         "Introduction": "Dzień dobry i witam w naszej małej społeczności, drogie dziecko! #$b#Możesz mi mówić 'Babciu' jeśli chcesz.$h",
-        "reject_867": "Oh, jestem pewna, że Georgowi by się to spodobało!",
+        "AcceptGift_(O)StardropTea": "Oh, dajesz mi to? Bardzo dziękuję, drogie dziecko. To bardzo wyjątkowy prezent!",
+        "AcceptGift_(O)170": "Dziękuję, skarbie. Wszędzie szukałam moich okularów...#$b#O mój! Ale się zabrudziły...",
+        "GreenRain": "George, kochanie... To już koniec? To było dobre życie, ale zanim odejdę chciałabym zobaczyć jak Alex sobie radzi w życiu...$s%noturn",
+        "GreenRainFinished": "Oh, moje dziecko... Cieszę się, że wszystko się dobrze skończyło. I moje kwiatki wyglądają lepiej niż kiedykolwiek!",
+        "GreenRain_2": "Najwidoczniej kwiatki kochają ten deszcz...",
+        "AcceptGift_forage_item_beach": "Dziękuję, skarbie. To przywołuje takie cudowne wspomnienia...",
+        "reject_867": "Oh, jestem pewna, że Georgowi się to spodoba!",
+        "cropMatured_591": "Własnoręcznie hodowane tulipany to piękny wiosenny prezent.",
+        "cc_Complete": "Wspaniale jest mieć z powrotem stary dom kultury. Mamy tam tyle wspomnień z dawnych lat... To wyjątkowe miejsce.",
+        "married": "Cieszę się z waszego szczęścia, skarbie.$h#$e#Widok młodych zakochanych podnosi na duchu starsze babcie, takie jak ja.",
+        "divorce": "Następnym razem, jak chcesz brać ślub, upewnij się dwa razy, że to ta osoba...$s",
         "reject_866": "To bardzo ładna róża, skarbie. Może pokaż ją Emily. Kojarzy mi się z nią.",
         "pamHouseUpgrade": "Oh, dziecko kochane... to miłe z Twojej strony, że fundujesz Pam nowy piękny dom!$h#$e#Moje serce mięknie, gdy ludzie tak o siebie dbają...",
         "pamHouseUpgradeAnonymous": "Możesz na mnie mówić głupia, stara baba... ale chyba wiem kto zafundował Pam nowy dom... *mrug*",
@@ -33,8 +43,9 @@
         "winter_Mon": "Uważaj żeby się nie poślizgnąć na lodzie, drogie dziecko.",
         "winter_Tue": "Nie jest ci zimno? Załóż kurtkę!#$e#Ta pogoda nie jest za dobra dla moich stawów...$s",
         "winter_Wed": "Przez cały czas pielęgnuję ogródki, a teraz w zimie są pokryte śniegiem.#$e#I tak lubię na nie spoglądać.",
+        "winter_Thu": "Dzisiaj piekę ciasteczka. Są w kształcie małych gwiazdek.$h#$e#Może kiedyś zdradzę ci przepis.",
         "winter_Sat": "Mieszkamy tu od ponad 30 lat.#$e#Widzieliśmy wiele osób, które przychodziły i odchodziły. Twój dziadek, na przykład. Szkoda mi go... *ehh*",
         "winter_Sat6": "Oh... moje drogie dziecko. Masz oczy po dziadku...$s#$e#Tak... tak... Dobrze go znałam.",
         "winter_Sun": "Lepiej zjedz ciepłą zupę, żeby się rozgrzać.#$e#I pamiętaj, o kurtce!",
         "winter_Sat8": "@, Mówiłam ci, że razem z Georgem mieszkamy tu od 30 lat?#$e#Mam nadzieję, że ty jeszcze trochę tu pomieszkasz.$h"
-}
+    }

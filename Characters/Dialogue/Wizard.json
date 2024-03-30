@@ -1,10 +1,20 @@
 {
         "Introduction": "Ah, tak. Już dawno temu przewidziałem twoje przybycie @.#$e#Jednakże twój ostateczny los jest w twoich rękach.",
+        "AcceptGift_(O)StardropTea": "Ah, co my tu mamy? Rzadki i silny eliksir, bynajmniej. Tak, to będzie doskonały dodatek do mojej skrzynki odczynników.",
         "accept_868": "Ah... Arktyczny odłamek.#$b#Najpotężniejsza substancja, w rzeczy samej i silnie nasycony żywiołem lodu.#$b#Wezmę to, o ile nie masz nic przeciwko.#$b#...#$b#...Em... Nadal tu jesteś. Oh... Chcesz coś w zamian?#$b#...Weź to.",
         "MovieInvitation": "Hmm... wydaje mi się, że mogę ci dotrzymać towarzystwa... Tak. Gdy już tam będziesz, pojawię się. Żegnam.",
+        "GreenRain": "Choć niezwykłe deszcze mogą budzić niepokój, to nie ma się czego obawiać.#$e#Tak właściwie jest to dzień wielkiej radości dla żywych istot.",
+        "GreenRain_2": "Natura to potężna siła, nie do zbagatelizowania.#$e#Wybacz mi, ale mam sprawy, którymi mogę się zająć tylko dzisiaj.",
+        "married": "Małżeństwo... hmm? Życzę ci większego szczęścia, niżeli ja miałem...",
+        "roommates_Krobus": "Życie z takim jak Krobus będzie nie lada wyzwaniem. Ale bardzo satysfakcjonujące dla obu stron, jestem tego pewien.#$e#Przyznam, że jestem ciekaw rezultatu tak niezwykłej przyjaźni.",
         "Mon": "Ah, tak. Widziałem wiele rzeczy o Twojej przyszłości, @.#$e#Wyjawienie ich tobie mogłoby pociągnąć za sobą poważne konsekwencje.",
+        "Mon4": "Poza domeną ludzkiej cywilizacji, natura na prawdę odkrywa swoje tajemnice.",
+        "Mon8": "Są miejsca na świecie, nieskażone ograniczeniami współczesnego myślenia, gdzie magia jest bardzo żywa...",
+        "Sat6": "Gdy praktyka naukowa może dokładnie opisać materię naszego świata, tak nigdy nie wyjaśni najgłębszych tajemnic...",
         "Tue": "Jeżeli nie masz nic ważnego do powiedzenia, zostaw mnie w spokoju. Przede mną dużo pracy.",
         "Tue4": "Ufam ci wystarczająco, żeby pozwolić ci wejść do mojej piwnicy. Wszystko co tam znajdziesz traktuj z należytym szacunkiem.",
+        "Tue8": "Uszanowanie, @. Ufam, że nie zajmujesz się czarną magią?",
+        "Tue10": "Jeśli rzeczywistość jest konstruowana przez umysł, to jeśli opanujesz moc umysłu, będziesz w stanie kontrolować rzeczywistość...",
         "Wed": "Zrozumienie języka żywiołów zajmuje wiele lat.#$e#Żeby jednak mówić w ich języku potrzebuje całego życia, wysiłku i poświęcenia.#$e#A teraz, jeśli mi wybaczysz...",
         "Thu": "Jest wiele zagadek pośród nas. Musisz mieć cierpliwość, aby je odkryć.",
         "Thu10": "Nie mów nikomu... ale mam powody żeby wierzyć, że jeden z miejscowych może być moją córką...#$e#Mogę się mylić... Jest to rzadkością ale może się zdarzyć.",
@@ -13,4 +23,4 @@
         "Sat": "Strzeż się, stoisz przy potężnym magicznym polu.#$e#Nie bez powodu zbudowałem moją chatę w tym miejscu.",
         "Sat2": "Czy zrobiłeś już jakieś postępy z leśnymi żywiołami?^Czy zrobiłaś już jakieś postępy z leśnymi żywiołami?",
         "Sun": "Czasami dyskretnie obserwuję lokalnych mieszkańców.#$e#Mam nadzieję, że znajdę pomiędzy nimi ucznia. Pewnego dnia opuszczę tą śmiertelną postać, ale moje tajemnicze zajęcia muszą być kontynuowane."
-}
+    }

@@ -1,9 +1,22 @@
 {
         "Introduction": "Oh! Wyglądasz inaczej niż się spodziewałam... ale nic nie szkodzi! Jestem Jodi.#$e#To małe, spokojne miasteczko, więc jak ktoś nowy się wprowadza to jest to sensacja. Nowy farmer może u nas sporo zmienić.",
+        "AcceptGift_(O)StardropTea": "Ah... Na pewno chcesz mi dać tak kosztowny prezent? Cóż, dziękuję!",
         "Resort_Entering": "Cudownie!",
         "Resort_Leaving": "Chyba dziś zrobię owoce morza.$h",
         "Resort": "Widok zapiera dech w piersiach! Świat jest cudowny...",
         "Resort_Bar": "Dobrze, że Gus tu jest.",
+        "dating_Sam_memory_oneday": "Słyszałam że spotykasz się z Samem. Mam nadzieję, że nie będzie ci sprawiał kłopotów!$h",
+        "married_Sam": "Tak się cieszę z waszego szczęścia. Myślę, że oboje jesteście dla siebie pisani!#$e#Nie myślałam, że kiedyś to powiem... ale będę tęsknić za tymi okropnymi dźwiękami z gitary Sama...$s",
+        "GreenRain": "Wszystko w porządku? Nigdy czegoś takiego nie widzieliśmy...$s#$e#Chciałabym, żeby był tu mój mąż. Wiedziałby co robić.$s",
+        "GreenRain_2": "Vincent wstał wcześnie, żeby się pobawić w deszczu. Mam nadzieję, że mają rację z tym, że jest nieszkodliwy!",
+        "eventSeen_94": "Jeszcze raz dziękuję za rybę! To była jedna z lepszych, jakie ostatnio jadłam.",
+        "eventSeen_3910975": "*szept* Słyszałeś o Shanie? To okropne... Mam nadzieję, że nic mu nie jest.$s^*szept* Słyszałaś o Shanie? To okropne... Mam nadzieję, że nic mu nie jest.$s",
+        "pamHouseUpgrade": "Wow... słyszałam co zrobiłeś dla Pam... kurczę, zastanawiam się co ona zrobiła, że wpadła w twoje łaski?$s^Wow... słyszałam co zrobiłaś dla Pam... kurczę, zastanawiam się co ona zrobiła, że wpadła w twoje łaski?$s#$e#...Chciałabym mieć tyle pieniędzy, żebym mogła nimi szastać...$s",
+        "pamHouseUpgradeAnonymous": "Widziałeś nowy dom Pam? Kurcze... chciałabym mieć tyle pieniędzy... przynajmniej bym wyremontowała sobie kuchnie...$s^Widziałaś nowy dom Pam? Kurcze... chciałabym mieć tyle pieniędzy... przynajmniej bym wyremontowała sobie kuchnie...$s",
+        "eventSeen_101": "Biedny Clint... mówią, że szaleje na punkcie Emily, ale słyszałam, że ona myśli o nim tylko jak o przyjacielu...",
+        "eventSeen_58": "Co tydzień chodzę z dziewczynami na zajęcia z aerobiku...#$b#Ostatnio ktoś nowy do nas dołączył, ale kazał obiecać, że nikomu nie zdradzimy kim on jest!",
+        "eventSeen_3102768": "Penny to miła dziewczyna. Jest nauczycielką Vincenta już jakiś czas, i naprawdę ją polubił.",
+        "cc_Bus": "Mówią że autobus zaczął działać. Z pewnością Pam jest z tego powodu szczęśliwa...#$b#Słyszałam, że zaczęła bardziej pić po utracie pracy... miejmy nadzieję, że to pomoże.",
         "reject_864": "Co to? Wygląda jak jeden z kolegów Kenta gdy był na wojnie. Może mu to pokażesz?",
         "Mon": "Utrzymywanie gospodarstwa to bardzo ciężka robota... ale ktoś musi to robić.#$e#Słucham?",
         "Mon6": "Miło jest mieć rodzinę... Ale skłamałabym, gdybym powiedziała, że nigdy nie tęsknię za młodością...$s",
@@ -37,5 +50,6 @@
         "winter_Thu_inlaw_Sam": "Jak u Sama? Muszę przyznać, że odkąd się wyprowadził mam mniej gotowania i sprzątania...",
         "winter_Thu8": "Trochę się pospieszyliśmy z małżeństwem, Ken jeszcze był w wojsku i w ogóle... Prawie nie poczułam smaku wolności, a teraz jest już za późno.$s#$e#Nie rób tego samego błędu.$4",
         "winter_Fri": "Chciałabym kiedyś pojechać na wakacje...$s",
-        "winter_Sun": "Pierwsze co bym zrobiła gdybym była bogata, to zatrudniłabym kucharza i sprzątaczkę.#$e#Mój Boże, to by było świetne!$h"
-}
+        "winter_Sun": "Pierwsze co bym zrobiła gdybym była bogata, to zatrudniłabym kucharza i sprzątaczkę.#$e#Mój Boże, to by było świetne!$h",
+        "fall_Mon6": "Powinnam częściej to zauważać. Mamy tu dobre życie. Niektórzy nawt nie mają co jeść.$s"
+    }

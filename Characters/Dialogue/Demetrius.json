@@ -1,6 +1,20 @@
 {
         "Introduction": "Witam! Jestem Demetrius, lokalny naukowiec i ojciec. Dziękuję, że się przedstawiasz!#$e#Badam lokalną roślinność i faunę z mojego domowego laboratorium.#$b#Znasz moją córkę Maru? Chciałaby cię poznać.",
+        "AcceptGift_(O)StardropTea": "Wow, to rzadka substancja. Muszę ją wziąć do laboratorium do... emm... dalszych badań.",
+        "AcceptBirthdayGift_Positive": "Prezent!... o optymalnym czasie. Dzisiaj jest rocznica moich narodzin. Dziękuję!$h",
+        "AcceptBirthdayGift_Negative": "Prezent!... o optymalnym czasie. Dzisiaj jest rocznica moich narodzin.$h#$b#Zobaczmy co to jest... $h#$b#...Oł.$s",
+        "AcceptGift_(O)107": "Wow, nienaruszone jajo dinozaura! To ekstremalnie rzadki okaz. Gdyby tylko dało się go inkubować...",
         "Resort_Entering": "To miejsce jest świetne. Już dostrzegłem rzadki gatunek kraba.$h",
+        "GreenRain": "Nie zwracaj na mnie uwagi, @. Zbieram trochę próbek. Taka okazja może się już nie zdarzyć!$7#$e#Emm... Jak spotkasz moją żonę, możesz jej powiedzieć, że nic mi nie jest?$7",
+        "GreenRain_2": "Deszcz wydaje się nieszkodliwy, więc w tym roku zachowam mniej środków ostrożności.",
+        "firstVisit_Desert": "Słyszałem, że byłeś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałeś tam wiele unikalnych form życia.^Słyszałem, że byłaś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałaś tam wiele unikalnych form życia.",
+        "questComplete_104_memory_oneday": "Sprawdzasz jak badania nad melonem? Tak, Ja... yy... 'przeanalizowałem' go, i z pewnością ma optymalny profil makroelementów...",
+        "purchasedAnimal_Dinosaur": "Możesz powtórzyć!? Udało ci się inkubować jajo dinozaura? To coś niespotykanego!$5#$e#Proszę, weź moją kawę, ja mam już dość... nie dam rady wypić więcej. [253]",
+        "dating_Maru": "Tak, Maru mi już powiedziała. Nie mogę powiedzieć, że jestem zachwycony, ale może może udowodnisz mi, że się mylę.$u",
+        "married_Maru": "*ehh*... @, Pogodziłem się z tym, że moja 'mała dziewczynka' stała się kobietą. Masz moje błogosławieństwo.$s",
+        "married_Sebastian": "Gratuluję wzięcia ślubu. Robin płacze od dnia ślubu. 'Łzy szczęścia', jak to mówi! Najdziwniejsze pojęcie...#$e#Hmm, skoro piwnica jest wolna, mógłbym powiększyć moje laboratorium...$u",
+        "eventSeen_65_memory_oneweek": "$y 'Jak idzie eksperyment w jaskini? Wyprodukował już coś ciekawego?_Tak_Ah! Oznacza to, że warunki muszą być bardziej odpowiednie, niżeli pierwotnie zakładałem... hmm..._Nie_Cóż, sprawdzaj co jakiś czas. jestem pewien, że te maluchy w końcu przyniosą zysk.'",
+        "eventSeen_65_memory_twoweeks": "Nie zapomnij sprawdzić jaskini na farmie! Z pewnością będzie tam coś ciekawego.",
         "Resort_Leaving": "Będę analizował te dane miesiącami.",
         "Resort_Shore": "*chrup*... ups, tam idzie zagrożony gatunek kraba...$s#$b#...#$b#Oh, nieważne to była tylko pusta skorupa! Mogę spać spokojnie.",
         "Resort_Chair": "Dobrze się bawisz, @? Pamiętaj, o odpoczynku!",
@@ -45,4 +59,4 @@
         "winter_Sat": "Zobaczmy... jeśli sezonowe poziomy azotu można modelować za pomocą funkcji defragmentującej...$u#$b#Oh! wybacz. Znowu myślałem na głos i cię nie zauważyłem.#$e#Trzeba ci czegoś?",
         "winter_Sun": "Jak chcesz to możesz ścinać sobie drzewa i zbierać kamienie z tego terenu ile dusza zapragnie.",
         "winter_Fri4": "Dziękuję za odwiedziny. Muszę pomyśleć o innych roślinach strączkowych.#$e#Co porabiasz ostatnimi czasy?#$e#Brzmi ciekawie."
-}
+    }

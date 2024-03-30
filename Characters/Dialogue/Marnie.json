@@ -1,5 +1,14 @@
 {
         "Introduction": "Ah, Burmistrz Lewis mi mówił, że już jesteś. Jestem Marnie!#$e#Sprzedaję produkty zwierzęce na moim ranczu. Może kiedyś do mnie wpadniesz.$h",
+        "AcceptGift_(O)StardropTea": "Wow, po stokroć dzięki, @. Nie zapomnę tego!",
+        "AcceptGift_(O)SkillBook_0": "Dzięki, @. Zawsze lubię mieć przy sobie kopię almanachu. Jest całkiem dokładny!$h",
+        "gotPet": "Myślę, że spodoba ci się mieszkanie na farmie z nowym przyjacielem.",
+        "gotPet_memory_oneday": "Jestem pewna, że %pet będzie z początku się trochę wstydzić. Zwierzę potrzebuje trochę czasu na oswojenie się z nowym otoczeniem.",
+        "gotPet_memory_oneweek": "Czy %pet już się oswoił z nowym miejscem? To bardzo dobre miejsce dla zwierzaka do zwiedzania.",
+        "gotPet_memory_oneyear": "Przypomniało mi się... minął już chyba rok od twojego adoptowania %pet. Założę się, że już bardzo się do siebie zbliżyliście!",
+        "structureBuilt_Stable": "Oh, masz konia? To wspaniale! Konie to wspaniałe zwierzęta.$h",
+        "dating_Shane_memory_oneweek": "Shane wydaje się ostatnio dużo bardziej pozytywny i pełny nadziei.#$b#Bardzo się cieszę, że tu wprowadziłeś, i że się z nim dogadujesz!$hBardzo się cieszę, że tu wprowadziłaś, i że się z nim dogadujesz!$h^",
+        "married_Shane": "Cieszę się, że Shane wprowadził się na twoją farmę... może podtrzyma rodzinną tradycję!",
         "Resort": "Hehe... W końcu szansa na pokazanie ciężkiej pracy na aerobiku.$h",
         "Resort_Leaving": "Ale tu gorąco.",
         "Resort_Shore": "Hee hee... Wszyscy wyglądają ciekawie w strojach kąpielowych.",
@@ -16,13 +25,18 @@
         "Saloon_Fri": "%Marnie chyba cię nie zauważyła...",
         "Saloon_Sun": "*ehh*... Nie napracowałam się dziś za bardzo.",
         "Saloon_Sat": "Zawsze widzę tu Clinta ale z nikim nie rozmawia. Od czasu do czasu zerka przez ramię.$s",
-        "Tue": "Mój siostrzeniec, Shane, jest u mnie od kilku miesięcy.#$e#Pomaga mi z kurami, więc nie narzekam.",
+        "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Przez to, że Shane się wyprowadził, ja będę musiała nauczyć Jas opiekować się kurami.|Mój siostrzeniec, Shane, jest u mnie od kilku miesięcy.#$e#Pomaga mi z kurami, więc nie narzekam.",
+        "GreenRain": "Martwisz się tym deszczem? Trochę mnie to uspokaja...#$e#Mam nadzieję, że krowy gdzieś się schowały...$s",
+        "GreenRainFinished": "Cóż, widocznie wszyscy niepotrzebnie się baliśmy... Deszcz jest całkowicie nieszkodliwy!",
+        "GreenRain_2": "Najwidoczniej zwierzętom podoba się ten deszcz... Chyba dostarcza trawie dodatkowych składników odżywczych.",
         "Wed": "Możesz użyć kosy do ścięcia trawy na paszę.#$e#Oczywiście możesz też ją kupić ode mnie!$h#$e#Przydałoby mi się trochę pieniędzy...$u#$e#Adios.",
         "Thu": "Witaj. Potrzebujesz czegoś?#$e#W przyszłości może sprowadzę tu kilka nowych gatunków zwierząt.#$e#Ale na razie muszę wiedzieć, że będę miała je komu sprzedać, musisz udowodnić, że umiesz się nimi zająć.#$e#Po prostu traktuj je z należytym szacunkiem.",
         "Fri": "Większość nocy siedzę w knajpie.#$e#Lubię spędzać czas ze zwierzętami, ale czasami trzeba też z kimś pogadać.",
-        "Fri4": "#$1 marnieLike#Myślę, że ktoś w mieście mnie polubił. *thihi*$k$h#$e#Byłabym taka samotna, gdyby Shane się wyprowadził.",
         "Fri6": "Ciekawe, czy Pan Lewis czuje się samotny w tak dużym domu... $s#$e#Wygląda w środku tak pusto, prawda?",
         "Sat": "Byłeś w tej dziwnej wieży na zachód od mojego domu?#$e#Kiedyś usłyszałam stamtąd okropny dźwięk, jakby z innego świata.$s#$e#Jeśli byłabym tobą, omijałabym to miejsce szerokim łukiem...",
         "Sun": "Witaj, dobrze cię widzieć!#$e#Odwiedzaj nas kiedy tylko chcesz.",
-        "Sun8": "Cześć @!$h#$e#Cieszę się, że się przyjaźnimy. Wiem, że dobrze traktujesz moje zwierzęta."
-}
+        "Sun8": "Cześć @!$h#$e#Cieszę się, że się przyjaźnimy. Wiem, że dobrze traktujesz moje zwierzęta.",
+        "Fair_Judging": "Cóż, raz kozie śmierć...",
+        "Fair_Judged": "No cóż, nie wygrałam... ale i tak cieszę się, że mogłam podzielić się moją ciężką pracą!",
+        "Fair_Judged_PlayerLost_PurpleShorts": "Na twojej wystawie była bardzo dziwna czerwona kapusta!$h#$b#Przysięgam, wyglądała jak specjalna biel... $3#$b#Oh!... heh... nieważne!$4"
+    }

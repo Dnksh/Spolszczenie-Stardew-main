@@ -1,9 +1,16 @@
 {
-        "Introduction": "Hmmph... Wkurza mnie poznawanie nowych osób?#$b#Przy okazji jestem George, a teraz odczep się ode mnie... Hmmph.",
+        "Introduction": "Hmmph... Wkurza mnie poznawanie nowych osób.#$b#Przy okazji jestem George, a teraz odczep się ode mnie... Hmmph.",
+        "AcceptGift_(O)StardropTea": "Hmm... *łyk*... ahhh... Smakuje jak zapiekanka z tuńczyka mamusi! Przepyszne!",
         "accept_867": "Co to?#$b#Czyli najpierw naciskasz ten guzik? A ten co robi? Hmmph... *zrzęd*#$b#Hehe! Patrz tu! Nowy kanał!$h#$b#Masz. To kamień, który znalazłem, kiedy byłem górnikiem. Zabawne, błyszczy i jest zimny od ponad 40 lat. Jakby magia!",
+        "GreenRain": "Już, już, kochanie... Nie martw się.%noturn#$b#Nawet jeśli jest toksyczny, w minutę wdychałem bardziej szkodliwe gazy w starej kopalni węgla... I jeszcze dycham!",
+        "GreenRain_2": "Wygląda na to, że młodzi będą mieli dużo odchwaszczania...Heheh...$h",
         "pamHouseUpgrade": "Dziękuję ci za zastąpienie tej starej paskudnej przyczepy... nowy dom jest o wiele przyjemniejszy do oglądania.#$e#Wiesz, pewnie dzięki temu też zwiększyła się cena naszej posiadłości!",
         "pamHouseUpgradeAnonymous": "Cóż... ten nowy dom troszkę blokuje mi widok na rzekę... Ale i tak to lepiej wygląda niż ta stara puszka w której mieszkała Pam.",
         "MovieInvitation": "Chcesz pooglądać film z takim starym prykiem jak ja? Cóż... Okej. Widzimy się na miejscu.",
+        "eventSeen_502969_memory_oneweek": "Nie wiem co zrobiłeś, ale tych szopów nie ma już od tygodnia!^Nie wiem co zrobiłaś, ale tych szopów nie ma już od tygodnia!",
+        "eventSeen_18_memory_oneweek": "Może wydawać się, że nie kontaktuje, ale gdybyś żył tyle co ja, nauczyłbyś się paru rzeczy o życiu. To jest 'wiedza'.^Może wydawać się, że nie kontaktuje, ale gdybyś żyła tyle co ja, nauczyłabyś się paru rzeczy o życiu. To jest 'wiedza'.#$b#Młodzież nie rozumie pełnego obrazu sytuacji. Jak tak można?",
+        "married_Alex": "...Hmmph.^Chciałbym zostać pradziadkiem zanim się przekręcę. Myślisz, że dasz radę?",
+        "divorced_once": "Hmmph... na łatwiznę, hę?#$e#Dzisiaj ludzie traktują małżeństwo jak telewizor... Jak się znudzisz, zmień kanał! Za moich czasów... *zrzęd*",
         "joja_Begin": "Więc... już po starym domu kultury. Co się stało z kosztownościami małego miasteczka? To wstyd, jak czasy się zmieniły...",
         "Mon": "Nie należę do gadatliwych. Zwłaszcza w stosunku do nieznajomych, mam nadzieję, że rozumiesz.",
         "Tue": "Hmmph... Kolejny ponury dzień.$s",
@@ -23,5 +30,6 @@
         "Wed10": "@! Pozwól, że wyłączę ten głupi telewizor, żebyśmy mogli razem porozmawiać.$h#$e#Więc no... co wy młodzi ludzie robicie w tych czasach?",
         "Tue10": "Wiesz... Nie powinienem być taki zły przez moje kalectwo.#$e#Powinienem się cieszyć, że żyję.$h",
         "Thu10": "Kiedy się zestarzejesz tak jak ja, dużo trudniej będzie ci dostosować się do nowych rzeczy.#$e#Któregoś dnia zrozumiesz o co mi chodzi.#$e#No idź, ciesz się ze swojej młodości, póki możesz.",
-        "winter_1": "Brr... Jest strasznie zimno.#$e#Kiedy jesteś młody nie odczuwasz tego zimna tak bardzo."
-}
+        "winter_1": "Brr... Jest strasznie zimno.#$e#Kiedy jesteś młody nie odczuwasz tego zimna tak bardzo.",
+        "WinterStar_GiveGift_After": "Nie podoba ci się, hę? Ba! Ta dzisiejsza młodzież... niczego nie docenią. To było drogie, a pieniądze nie rosną na drzewach, wiesz!"
+    }

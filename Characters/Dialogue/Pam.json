@@ -1,11 +1,21 @@
 {
         "Introduction": "Hej, dzieciaku. Jestem Pam.#$e#Nie bądź cham, a jakoś się dogadamy.",
+        "AcceptGift_(O)StardropTea": "A niech mnie... Nigdy nie spodziewałam się takiego prezentu. Poprawiłeś mi dzień, dzieciaku!^A niech mnie... Nigdy nie spodziewałam się takiego prezentu. Poprawiłaś mi dzień, panienko!",
         "Resort_Shore": "Pływają tu ciekawe ryby. Następnym razem wezmę wędkę!",
         "Resort": "Heh... Willy dał każdemu kawałek suszonej ryby. Przepyszna!",
+        "married_Penny": "Będę bardzo tęskniła za tą dziewczyną...$s#$b#Radzę dobrze traktować moją Penny. Czaisz?$u",
+        "married_Alex": "Cóż, jesteś z chłopakiem Mullnerów, hę?#$b#Weźmiecie jeszcze ze sobą tego cuchnącego kundla?",
+        "GreenRain": "To znak od Wszechmocnego... O nie... Jesteśmy zgubieni...%noturn$s",
+        "GreenRainFinished": "Cóż, chyba koniec świata jeszcze nie nadszedł, dzieciaku...#$e#Ah cóż, wracamy do starej roboty...",
+        "GreenRain_2": "Myślę, że te deszcze są pokazem mocy... ostrzeżeniem.#$b#Można powiedzieć, że to od natury, Yoby, od czegokolwiek... ale to tak mi się wydaje.#$e#Chodzi mi o to, że nie możemy być pewni siebie. Bo zamiast zielonego deszczu może być krwistoczerwony... Wiesz o co mi chodzi?",
+        "divorced_Penny": "Penny przyszła do domu zapłakana... coś ty jej zrobił?$3^Penny przyszła do domu zapłakana... coś ty jej zrobiła?$3",
+        "structureBuilt_Fish Pond": "Słyszałam, że masz u siebie staw rybny... Heh, dorastałam z takim.#$b#Możesz w takim hodować cokolwiek... Ale niektóre bardziej wyrafinowane ryby są naprawdę wybredne!",
+        "wonIceFishing": "Dobra, dobra... pokonałeś mnie uczciwie na zawodach, dzieciaku.^Dobra, dobra... pokonałaś mnie uczciwie na zawodach.#$e#Hmm... Może źle zrobiłam, że użyłam grzyba w cieście piwnym jako przynęty...$u",
         "Resort_Chair": "I to jest życie! Może nawet zdejmę buty!$h#$e#Lepiej nie patrz mi na stopy, dzieciaku.",
         "Resort_Bar": "To specjalna okazja, dzieciaku... Zamawiam coś niezwykłego. Razy dwa!$h",
         "reject_867": "Wow, spójrz na to... jakby coś z przyszłości.#$b#Hehe, sorry dzieciaku... Nie umiem tego używać. To ma więcej przycisków niż ja komórek mózgowych!$h",
         "pamHouseUpgrade": "Nie mogę w to uwierzyć! Czy jest w tym jakiś haczyk?#$e#Wybacz, nie przywykłam do miłych ludzi...$s",
+        "pamHouseUpgrade_memory_oneweek": "Podoba mi się nowy dom. Jeszcze raz dzięki, dzieciaku!$h",
         "pamHouseUpgradeAnonymous": "Nie mogę w to uwierzyć! ktoś ufundował mi dom! Zastanawiam się czy to jakiś kant?#$e#Wybacz, nie przywykłam do miłych ludzi...$s",
         "MovieInvitation": "Randeczka ze starą Pam, hę? Hah!$h^Babski wieczór ze starą Pam, hę? Hah!$h#$b#Pewnie, dzieciaku... widzimy się na miejscu.",
         "cc_Bus": "Hej, słyszałeś o starym busie?^Hej, słyszałaś o starym busie?#$b#Tak... Znowu w siodle, dzieciaku... Hehe. Miłe uczucie.$h",
@@ -60,4 +70,4 @@
         "winter_Fri": "Penny lubi stare książki. Myślę, że jest o wiele mądrzejsza niż ja kiedykolwiek.#$e#Cieszę się.",
         "winter_Sat": "Muszę zająć się łowieniem, patrząc na to jak blisko jest rzeka.",
         "winter_Sun": "Fuj... Moje podwórko to jakieś wysypisko.$s"
-}
+    }

@@ -55,7 +55,7 @@
         "Indoor_Night_1": "Widać po tobie, że skończyłeś robotę.^Widać po tobie, że skończyłaś robotę.#$e#Po tak ciężkim wysiłku na pewno chce ci się spać.$h",
         "Indoor_Night_2": "Cieszę się, że wróciłeś.^Cieszę się, że wróciłaś.#$e#Trochę się boję samotności, zwłaszcza w nocy.$s^Trochę tu bez ciebie pusto...$s#$e#...$h",
         "Indoor_Night_3": "Wszystko na dzisiaj skończone? Teraz czas na trochę zabawy.$h#$e#Rozumiem, jeśli nie masz już siły.",
-        "Indoor_Night_4": "*Fiu!* Obowiązki domowe skończone. Teraz możemy trochę razem posiedzieć.$h#$e#Jak ci minął dzień.$l#$e#...$h",
+        "Indoor_Night_4": "*Fiu!* Obowiązki domowe skończone. Teraz możemy trochę razem posiedzieć.$h#$e#Jak ci minął dzień?$l#$e#...$h",
         "Indoor_Night_Maru": "Chyba przyda ci się trochę snu, @. Może cię uśpię szczegółami technicznymi mojego nowego projektu?$h#$e#*ziew*... Tak szczerze, też mi się chce spać.",
         "Indoor_Night_Abigail": "Idziemy spać? Włączyłam dla nas elektryczny kocyk...$l",
         "Indoor_Night_Penny": "Witaj kochanie. Spędzimy razem wieczór w naszym domciu?",
@@ -210,4 +210,4 @@
         "NoBed_1": "Źle mi się dzisiaj spało...$s",
         "NoBed_2": "Spanie na ziemi nie należy do najwygodniejszych...$s",
         "NoBed_3": "Czy coś się stało z naszym łóżkiem...?$s"
-}
+    }

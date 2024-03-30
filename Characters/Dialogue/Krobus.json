@@ -1,8 +1,18 @@
 {
-        "4": "...Spotykasz czasami kogoś takiego jak ja w kopalniach? Przepraszam, jeśli byli dla ciebie nie mili. Widzisz, nauczyliśmy się straszyć ludzi... było za dużo... nieprzyjemnych spotkań.#$e#Nie zabiłeś żadnego z moich przyjaciół, prawda?^Nie zabiłaś żadnego z moich przyjaciół, prawda?",
-        "8": "Tysiącletnia wojna między nami i krasnoludami dobiegła końca. Wciąż jest sporo uraz po obu stronach.",
-        "15": "Proszę, nie mów o mnie nikomu. Jeśli krasnoludy się o mnie dowiedzą, na pewno po mnie przyjdą.",
+        "SpouseStardrop": "Chciałbym ci to podarować jako 'podziękowanie' za pozwolenie mi z tobą mieszkać.$h",
+        "4_*": "...Spotykasz czasami kogoś takiego jak ja w kopalniach? Przepraszam, jeśli byli dla ciebie nie mili. Widzisz, nauczyliśmy się straszyć ludzi... było za dużo... nieprzyjemnych spotkań.#$e#Nie zabiłeś żadnego z moich przyjaciół, prawda?^Nie zabiłaś żadnego z moich przyjaciół, prawda?",
+        "AcceptBirthdayGift_Positive": "O, prezent na upamiętnienie dnia, w którym się wyklułem! Dziękuję!$h",
+        "GreenRain": "Przypływ wody jest dzisiaj niezwykle silny... co się tam dzieje?",
+        "AcceptBirthdayGift_Negative": "Oł... to nazywacie 'prezentem urodzinowym'? nie rozumiem ludzi...$s",
+        "AcceptGift_(O)StardropTea": "Czy to herbata z stardropa? Dziękuję! Jedna kropla sprawia, że mój pokój ładnie pachnie przez cały dzień.",
+        "AcceptGift_(O)Book_Void": "Hej, patrz! Wszyscy moi przyjaciele tu są!$h#$b#Chwila, czy to ja...?$7",
+        "AcceptGift_(O)879": "Ładna perfuma jako prezent? Oh, @... zarumieniłem się, ale pewnie nie widać tego po mnie...$4",
+        "AcceptGift_(O)308": "Pachnie przepysznie! Zjem pół, a resztą nawilżę swoje ciało...$h",
+        "8_*": "Tysiącletnia wojna między nami i krasnoludami dobiegła końca. Wciąż jest sporo uraz po obu stronach.",
+        "15_*": "Proszę, nie mów o mnie nikomu. Jeśli krasnoludy się o mnie dowiedzą, na pewno po mnie przyjdą.",
+        "18_*": "Staram się nie robić tu zbyt wiele hałasu. Co by było, gdyby inni usłyszeli stąd moje dziwne dźwięki...",
         "Fri": "...",
+        "eventSeen_691039": "...Jestem lekko poobijany, ale nic mi nie jest.",
         "reject_868": "Oh, to arktyczny odłamek! Bardzo rzadki magiczny przedmiot.#$b#Na twoim miejscu zaniósłbym to do Czarodzieja!",
         "Wed": "Znajduję tu rzeczy i je sprzedaję. Chcesz coś kupić?",
         "Wed6": "Jeśli przyłożysz ucho do prawej rury, możesz usłyszeć dźwięki z każdego domu.#$b#Wcale nie podsłuchuję!$3",
@@ -13,8 +23,10 @@
         "Mon2": "Znowu wracasz? Pasuje do mojej teorii o ludzkich zachowaniach.",
         "Mon6": "'Krobus' w naszym języku znaczy 'przechodzący przez most'.",
         "Sat": "W piątki nic nie mówię, żeby oddać cześć Yobie.",
+        "Sat4": "Chciałbym zobaczyć więcej świata zewnętrznego, ale nie byłoby to dla mnie bezpieczne.$s",
+        "Sat8": "Nigdy nie będę wiedział jak to jest być człowiekiem... ale rozmowa z tobą pomaga mi to trochę zrozumieć.",
         "Sun": "...Przepraszam, wciąż trochę się boję ludzi. Ale mój sklep jest dla ciebie cały czas otwarty.",
         "Sun4": "Nie jesteś jak inni ludzie, prawda?",
         "Sun8": "Dzięki tobie znam prawdę o ludziach. Dziękuję ci za to.",
         "divorced": "..."
-}
+    }
