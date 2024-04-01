@@ -679,7 +679,7 @@
         "Forge_unforge_right_slot": "Opróżnij prawy slot, żeby usunąć ulepszenie...",
         "Forge_unforge_invalid": "Tylko w wykutych przedmiotach i połączonych pierścieniach nie można usunąć ulepszenia...",
         "Forge_valid": "Naciśnij przycisk mocy, aby zacząć ulepszać!",
-        "Chat_BuildingBuild": "{0} zwraca się o budowę {1} {2}!",
+        "Chat_BuildingBuild": "{0} zwraca się o budowę {2}!",
         "Chat_BuildingMagicBuild": "{0} przywołuje {1} {2}!",
         "Chat_HouseUpgrade": "{0} zwraca się o ulepszenie domu: {1}!",
         "Chat_CommunityUpgrade": "{0} zwraca się o ulepszenie społeczności!",

@@ -207,7 +207,7 @@
         "ArchaeologyHouse_Rearrange": "Czy chcesz zmienić kolejność kolekcji w muzeum?",
         "HaleyHouse_EmilyRoomObject": "W środku jest kaseta:'Dowolne Tańce Rytmiczne'",
         "Club_Bouncer_PlayerClubMember": "Możesz wejść.",
-        "Club_CalicoJack_Rules1": "Celem jest dojście jak najbliżej liczby 21. Wartości kart są od 1 do 9, oprócz pierwszej karty, która może być warta nawet 11. Każdy gracz zaczyna z dwoma kartami, ale pierwsza karta rozdającego jest ukryta. W każdej turze możesz dobrać kartę z losowym numerem pomiędzy 1 i 9 albo odpuścić.",
+        "Club_CalicoJack_Rules1": "Celem jest dojście jak najbliżej liczby 21. Wartości kart są od 1 do 9, oprócz pierwszej karty, która może być warta nawet 11. Każdy gracz zaczyna z dwiema kartami, ale pierwsza karta rozdającego jest ukryta. W każdej turze możesz dobrać kartę z losowym numerem pomiędzy 1 i 9 albo odpuścić.",
         "Club_CalicoJack_Rules2": "Gdy odpuścisz, ukryta karta rozdającego zostaje odkryta. Musi dobierać karty, dopóki nie dojdzie lub przekroczy 18. Gdy zarówno gracz przekroczy 21 w jego turze, przegrywa. Gdy rozdający odpuści, wtedy wszystkie karty zostają odsłonięte i najwyższy wynik wygrywa.",
         "Club_CalicoJackHS_NotEnoughCoins": "Potrzebujesz przynajmniej 1000 monet, żeby tu zagrać.",
         "Club_CalicoJack_NotEnoughCoins": "Hej, zakłady zostały ustawione na 100 monet. Nie masz tylu. Kup jakieś z maszyny, jeśli chcesz grać.",
