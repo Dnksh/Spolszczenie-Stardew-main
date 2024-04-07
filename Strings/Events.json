@@ -1,7 +1,7 @@
 {
         "BirthMessage_Adoption": "W nocy agencja adopcyjna dostarczyła twoje nowe dziecko {0}.",
         "BirthMessage_PlayerMother": "W nocy urodziłaś {0}.",
-        "BirthMessage_SpouseMother": "W nocy, {1} urodziła {0}.",
+        "BirthMessage_SpouseMother": "W nocy {1} {0} urodziła młode.",
         "BirthMessage_SpouseNaming_Male": "{0} nazywa twoje dziecko.",
         "BirthMessage_SpouseNaming_Female": "{0} nazywa twoje dziecko.",
         "BabyNamingTitle_Male": "Jak go nazwiemy?",
