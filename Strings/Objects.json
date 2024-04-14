@@ -1152,7 +1152,7 @@
   "StirFry_Name": "Stir Fry",
   "StirFry_Description": "Warzywa na ryżu.",
   "Stone_Name": "Kamień",
-  "Stone_Description": "Użyteczny materiał do zniszczenia kilofem.",
+  "Stone_Description": "Użyteczny materiał, który można zniszczyć kilofem. Używany w rzemiośle.",
   "Stone_Node_Name": "Kamień",
   "Stone_Node_Description": "Rozbij, aby uzyskać kamień, rudy, albo geody.",
   "Stone_NodeStoneOnly_Name": "Kamień",
