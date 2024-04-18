@@ -801,5 +801,6 @@
 		"Chat_CalicoStatue_Activated": "Statua Calico: {0}",
 		"Tomorrow": "Jutro...",
 		"Chat_HardModeSkullCaveActivated": "{0} usuwa starożytną magiczną pieczęć ochronną z Kościanej Pieczary. Tej nocy potężne potwory wynurzą się z głębin...",
-		"Chat_HardModeSkullCaveDeactivated": "{0} odnawia starożytną magiczną pieczęć ochronną w Kościanej Pieczarze. Jutro wszystko wróci do normy..."
+		"Chat_HardModeSkullCaveDeactivated": "{0} odnawia starożytną magiczną pieczęć ochronną w Kościanej Pieczarze. Jutro wszystko wróci do normy...",
+		"BirthdayOrder": "{1} {0}"
 }
