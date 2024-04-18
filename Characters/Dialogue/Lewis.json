@@ -6,7 +6,7 @@
         "GreenRainFinished": "Cóż, było trochę nerwów dla naszego małego miasteczka! Cieszę się, że nikomu nic nie jest.$h#$e#Jeśli to się jeszcze kiedykolwiek zdarzy, raczej wszyscy będziemy odrobinkę spokojniejsi. To nie koniec świata!",
         "GreenRain_2": "Najwidoczniej możemy spodziewać się takich deszczy co roku. Chyba każdy jest już troche spokojniejszy wiedząc, że to po prostu część natury.",
         "AcceptBirthdayGift_Negative": "Ah, pamiętasz o urodzinach starego burmistrza... co to?$h#$b#Um... cóż wiesz jak to mówią, 'liczy się pamięć'.",
-        "cropMatured_24": "Hej, robiłem nocną rundkę i zauważyłem że pasternak ci urósł. Gratulacje!",
+        "cropMatured_24": "Hej, robiłem nocną rundkę i zauważyłem, że pasternak ci urósł. Gratulacje!",
         "cropMatured_254": "Te melony na farmie %farm wyglądały bardzo dobrze!$h#$b#Wiesz, że kiedyś była to jedna z ulubionych upraw twojego dziadka.",
         "cropMatured_276": "Nic nie mówi 'Jesień' jak dynia, nie uważasz?",
         "Resort": "Jestem pod wrażeniem, @. Udało ci się naprawić to miejsce!$h",
@@ -33,7 +33,7 @@
         "Saloon_Entry": "Cześć, Gus!",
         "Tue2": "Na początku każdej pory roku musisz pozbyć się martwych plonów z poprzedniego siewu. Najłatwiej się to robi kosą.",
         "spring_3": "Masz już zasadzone jakieś wiosenne rośliny? Pory roku nie trwają wiecznie, wiesz.",
-        "Town_57_40": "#$c .3#Dość wcześnie przychodzisz do miasta. Skończyłeś obowiązki na farmie?^Dość wcześnie przychodzisz do miasta. Skończyłaś obowiązki na farmie?#$e#Dzień dobry! Tak sobie doglądam ogródka.$h#$c .5#Hmm... czy to mszyca?$s#$e#Hmm... Mam nadzieję że nie...$s",
+        "Town_57_40": "#$c .3#Dość wcześnie przychodzisz do miasta. Skończyłeś obowiązki na farmie?^Dość wcześnie przychodzisz do miasta. Skończyłaś obowiązki na farmie?#$e#Dzień dobry! Tak sobie doglądam ogródka.$h#$c .5#Hmm... czy to mszyca?$s#$e#Hmm... Mam nadzieję, że nie...$s",
         "Wed": "Hmm... Zbieranie podatków... *ble ble* Wydatki na wiosenne uroczystości... *ble ble ble*...$u#$e#Tak?",
         "spring_10": "Ah... Nie ma to jak filiżanka mocnej herbaty o poranku.",
         "Thu": "W nocy knajpa jest bardzo zatłoczona. Czasami wkładamy monetę do szafy grającej *hihi*$h#$e#Lubię tam wpadać raz w tygodniu, żeby nadrobić zaległości.",
@@ -67,7 +67,7 @@
         "winter_Mon": "Kolejny rok prawie się kończy!#$e#Mam nadzieję, że był to dla ciebie produktywny rok!",
         "winter_Tue": "Muszę zacząć myśleć, co zrobić żeby w miasteczku było lepiej na następny rok!",
         "winter_Wed": "I tak będę przychodził w nocy, żeby zbierać twoje produkty, nawet w śniegu.#$e#Nadal musisz zarabiać w zimie!",
-        "winter_Fri": "Mam nadzieję że na Twojej farmie wszystko dobrze się układa.",
+        "winter_Fri": "Mam nadzieję, że na Twojej farmie wszystko dobrze się układa.",
         "winter_Fri6": "Nigdy nie byłem żonaty. Nie mam rodziny. Żyję tylko po to, żeby być burmistrzem.$s#$e#Czy warto?$s#$e#...*ehh*...$s",
         "winter_Sun": "Witaj, @! Jak się dzisiaj miewasz?$h#$e#Pozdrów ode mnie Marnie."
     }

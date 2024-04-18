@@ -52,7 +52,7 @@
         "Wed": "Słyszałam plotki o rzadkich i potężnych magicznych pierścieniach, wykutych dawno temu przez zapomniane cywilizacje. Nie wiem, czy to jest prawda, czy tylko mit.",
         "Wed4": "Masz rybę? Mam nadzieję, że będziesz dobrze traktować to niewinne stworzonko.$s#$e#Każda istota zasługuje na nasz szacunek, nawet ta obślizgła.",
         "Wed6": "Miej wiarę... Każdego dnia coraz bardziej zbliżasz się do swojego przeznaczenia.",
-        "Wed8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#Cześć, @.#$e#Zawsze wiedziałam że będziemy dobrymi przyjaciółmi. To było zapisane w gwiazdach!|Cześć, @.$u#$e#Zawsze wiedziałam, że jesteśmy sobie bliscy...",
+        "Wed8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#Cześć, @.#$e#Zawsze wiedziałam, że będziemy dobrymi przyjaciółmi. To było zapisane w gwiazdach!|Cześć, @.$u#$e#Zawsze wiedziałam, że jesteśmy sobie bliscy...",
         "Thu": "Mam nadzieję, że uprawiasz rolę w ekologiczny sposób. Tutejszy ekosystem jest w kiepskim stanie!#$e#Skąd wiem? Mam silne przeczucia!",
         "Thu4": "Czasami kwiaty do mnie przemawiają... każdy z nich ma inną historię do opowiedzenia!",
         "Fri": "Ah, wiosna. Sezon na pastele. Bardziej wolę ozdobne klejnoty.#$b#Oh, wybacz mi. Znowu paplałam o modzie, tak?",
