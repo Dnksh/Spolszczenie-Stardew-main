@@ -127,7 +127,7 @@
         "SummitEvent_Intro2_Spouse": "Ładnie tu...",
         "SummitEvent_Intro2_Spouse_Gruff": "Niezły widok, hę?",
         "SummitEvent_Dialogue1_Spouse": "Te ostatnie %year lata...",
-		 "SummitEvent_Dialogue1B_Spouse": "Wiele razem przeszliśmy, prawda?$h",
+		"SummitEvent_Dialogue1B_Spouse": "Wiele razem przeszliśmy, prawda?$h",
         "SummitEvent_Dialogue2_Spouse": "...Widzisz, jak daleko zaszliśmy.",
         "SummitEvent_Dialogue3_Alex": "W końcu odkryłem kim chciałem być... I mam pewność co do przyszłości.\"/pause 500/speak Alex \"Nie wiem, czy doszedłbym tu bez ciebie, @.\"",
         "SummitEvent_Dialogue3_Sebastian": "Zanim cię poznałem, Większość czasu odwracałem się od rzeczywistości... Bo myślałem, że nigdy nie znajdę szczęścia.#$b#...Ale dzięki tobie dowiedziałem się, że świat nie jest takim okropnym miejscem.$h\"/faceDirection Sebastian 3/pause 500/speak Sebastian \"...To jeden z wielu powodów, dla których cię kocham...\"",
