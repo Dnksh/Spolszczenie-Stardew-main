@@ -7,7 +7,7 @@
         "Resort_Entering": "To miejsce jest świetne. Już dostrzegłem rzadki gatunek kraba.$h",
         "GreenRain": "Nie zwracaj na mnie uwagi, @. Zbieram trochę próbek. Taka okazja może się już nie zdarzyć!$7#$e#Emm... Jak spotkasz moją żonę, możesz jej powiedzieć, że nic mi nie jest?$7",
         "GreenRain_2": "Deszcz wydaje się nieszkodliwy, więc w tym roku zachowam mniej środków ostrożności.",
-        "firstVisit_Desert": "Słyszałem, że byłeś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałeś tam wiele unikalnych form życia.^Słyszałem, że byłaś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałaś tam wiele unikalnych form życia.",
+        "firstVisit_Desert": "Słyszałem, że ${byłeś^byłaś}$ ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że ${zaobserwowałeś^zaobserwowałaś}$ tam wiele unikalnych form życia.",
         "questComplete_104_memory_oneday": "Sprawdzasz jak badania nad melonem? Tak, Ja... yy... 'przeanalizowałem' go i z pewnością ma optymalny profil makroelementów...",
         "purchasedAnimal_Dinosaur": "Możesz powtórzyć!? Udało ci się inkubować jajo dinozaura? To coś niespotykanego!$5#$e#Proszę, weź moją kawę, ja mam już dość... nie dam rady wypić więcej. [253]",
         "dating_Maru": "Tak, Maru mi już powiedziała. Nie mogę powiedzieć, że jestem zachwycony, ale może może udowodnisz mi, że się mylę.$u",
