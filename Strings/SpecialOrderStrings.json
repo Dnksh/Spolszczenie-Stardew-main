@@ -69,7 +69,7 @@
         "Wizard2_Text": "Potrzebuję pomocy w znalezieniu rzadkiego i niebezpiecznego pryzmatycznego szlamu, który znajduję się w lokalnych jaskiniach. Przynieś mi słoik jego pryzmatycznej galaretki, a zostaniesz należycie wynagrodzony.        -M. Rasmodius",
         "Wizard2_Objective_0_Text": "Zabij pryzmatyczne szlamy.",
         "Wizard2_Objective_1_Text": "Dostarcz czarodziejowi pryzmatyczną galaretkę",
-        "Wizard2_Objective_1_Message": "Ach... udało ci się!$h#$b#Daj mi to i odejdź! Przede mną dużo pracy.",
+        "Wizard2_Objective_1_Message": "Ach... udało Ci się!$h#$b#Daj mi to i odejdź! Przede mną dużo pracy.",
         "Robin2_Name": "Przypływ zasobów",
         "Robin2_Text": "Dla zabawy robię małą promocję. Jeżeli ktoś będzie w stanie zebrać 1000 {Resource:Text} w tydzień, otrzyma nagrodę i będzie mógł/mogła zatrzymać {Resource:Text}!             -Robin",
         "Robin2_Objective_0_Text": "Zbierz 1000 {Resource:Text}.",

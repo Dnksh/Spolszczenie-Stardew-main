@@ -6,7 +6,7 @@
         "ScienceHouse_Robin_Snowing": "Jest tu przyjemnie i ciepło!",
         "ScienceHouse_Robin_NotSnowing": "Cześć!",
         "ScienceHouse_Robin_CloseFriends": "Cześć {0}!",
-        "ScienceHouse_Robin_NotCloseFriends": "Trzeba ci coś wybudować?",
+        "ScienceHouse_Robin_NotCloseFriends": "Trzeba Ci coś wybudować?",
         "ScienceHouse_Robin_Greeting": "Witaj!",
         "ScienceHouse_Robin_RareGreeting": "Lew...? Och...",
         "AnimalShop_Marnie_Greeting1": "Witaj!",
@@ -68,5 +68,5 @@
         "SeedShop_Pierre_Greeting2": "To farmer {0}!",
         "SeedShop_Pierre_Raining": "Dobry dzień na zakupy!",
         "SeedShop_Pierre_NotRaining": "Witam!",
-        "SeedShop_Pierre_RareGreeting": "Nie zgubił ci się portfel?"
+        "SeedShop_Pierre_RareGreeting": "Nie zgubił Ci się portfel?"
 }

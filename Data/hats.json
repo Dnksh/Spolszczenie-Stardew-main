@@ -14,7 +14,7 @@
         "12": "Delicate Bow/Mała, różowa i błyszcząca od brokatu./true/false//Delikatna kokarda",
         "13": "Tropiclip/Jest w kształcie małej palmy./true/false//Tropikalna spinka",
         "14": "Butterfly Bow/Ta jest bardzo miękka./true/false//Kokarda motyla",
-        "15": "Hunter's Cap/Wełniane wykończenie powinno utrzymać cię w cieple głęboko w lesie./false/true//Czapka myśliwego",
+        "15": "Hunter's Cap/Wełniane wykończenie powinno utrzymać Cię w cieple głęboko w lesie./false/true//Czapka myśliwego",
         "16": "Trucker Hat/Prowizoryczny system wentylacji na tyle czapki./false/true//Czapka tirowca",
         "17": "Sailor's Cap/Jest nowa i sztywna./false/true//Czapka marynarza",
         "18": "Good Ol' Cap/Oklapła stara czapka ze zwiniętym dziobem. Wiele przeszła./false/true//Stara dobra czapa",
@@ -43,7 +43,7 @@
         "41": "Emily's Magic Hat/Zrobiony z miłością przez Emily. W 100% organiczny!/false/true//Magiczny kapelusz emily",
         "42": "Mushroom Cap/Pachnie ziemią./false/true//Grzybowa czapka",
         "43": "Dinosaur Hat/Czapka wyglądająca jak mały dinozaur./false/true//Czapka dinozaura",
-        "44": "Totem Mask/Nie martw się, nie przeteleportuje ci facjaty.../true/true//Maska totemu",
+        "44": "Totem Mask/Nie martw się, nie przeteleportuje Ci facjaty.../true/true//Maska totemu",
         "45": "Logo Cap/Różowa czapka o eleganckim profilu./false/true//Czapka z logiem",
         "46": "Wearable Dwarf Helm/Trochę większy niż krasnoludzka wersja./hide/true//Krasnoludzki hełm",
         "47": "Fashion Hat/Modny kapelusz z piórem./false/true//Modny kapelusz",
@@ -120,5 +120,5 @@
 		"GovernorsHat": "Governor's Hat/Replika kultowego kapelusza gubernatora./false/true//Kapelusz gubernatora/118",
 		"WhiteBow": "White Bow/Kokarda biała jak śnieg./true/false//Biała kokarda/119",
 		"SpaceHelmet": "Space Helmet/Uwaga: Ten hełm nie był testowany w kosmosie./hide/true//Hełm kosmonauty/120",
-		"InfinityCrown": "Infinity Crown/Zrobiona z egzotycznego, nieznanego ci metalu./false/true//Korona nieskończoności/121"
+		"InfinityCrown": "Infinity Crown/Zrobiona z egzotycznego, nieznanego Ci metalu./false/true//Korona nieskończoności/121"
 }

@@ -25,7 +25,7 @@
         "wonEggHunt_memory_oneyear": "Nadal jestem zła za polowanie na jajka w tamtym roku. Lepiej zacznij ćwiczyć...",
         "dating_Abigail": "%Abigail jest zarumieniona, ale wygląda na szczęśliwą.",
         "dating_Abigail_memory_oneday": "...Jesteś ${uroczy^urocza}$.$l",
-        "dating_Abigail_memory_oneyear": "Uh... @? Spotykamy się już prawie rok. Czy to gdziekolwiek zmierza?$s",
+        "dating_Abigail_memory_oneyear": "Eem... @? Spotykamy się już prawie rok. Czy to gdziekolwiek zmierza?$s",
         "dating_Sebastian_memory_oneday": "Słyszałam, że spotykacie się z Sebastianem... Nie miałam pojęcia, że między wami coś jest...$6",
         "dating_Sam": "Hej, Słyszałam, że spotykacie się z Samem... To naprawdę dobry facet!$h#$e#Długo się już przyjaźnimy. Lepiej dobrze go traktuj, bo będziesz mieć do czynienia ze mną!",
         "married_Sebastian": "Gratuluje wyjścia za mąż. Najwidoczniej Sebastian nie przeprowadzi się do miasta, jak to ciągle gadał.$6#$b#I dobrze. Byłoby mi przykro, jakbym go tu nie było. Od zawsze jesteśmy dobrymi przyjaciółmi.$6",
@@ -51,7 +51,7 @@
         "Mon": "O, hej. Robisz sobie przerwę?",
         "Mon2": "Cześć!#$e#Chodzisz czasami na cmentarz? Spokojne miejsce. Lubię tam spędzać czas w samotności.",
         "Tue": "Mam zły dzień.$s#$e#Mówiłam, że mam zły dzień... Czego chcesz?$a",
-        "Tue2": "...*ehh*...$s#$e#Wiem, że moi rodzice mają rację, ale czasami po prostu mnie nie rozumieją. Uh, czy oni nigdy nie byli młodzi?",
+        "Tue2": "...*ehh*...$s#$e#Wiem, że moi rodzice mają rację, ale czasami po prostu mnie nie rozumieją. Uch, czy oni nigdy nie byli młodzi?",
         "Wed": "Hej. Od razu przepraszam jeśli Ci powiem coś niemiłego. Mało spałam.#$e#Czego chcesz?",
         "Thu": "#$1 Abigail1#O nie, chyba tata będzie robił kolacje...$s#$e#Nie mam dziś na nic ochoty...$u",
         "Fri": "Wow, dzisiaj jest piątek?$u#$#Czasami całkowicie tracę rachubę czasu.",
@@ -147,6 +147,6 @@
         "winter_Sat6": "Ostatnio dużo sobie rozmyślałam...#$e#Och! Chcesz wiedzieć o czym? Cóż...$u#$b#...To tajemnica.$h",
         "winter_Thu10": "Kolejny rok prawie się kończy...#$b#Ale ten był bardzo dobry, prawda?$h",
         "winter_Wed6": "Pewnie fajnie jest nie myśleć o roślinach w zimie.#$e#A to znaczy, że możemy dłużej porozmawiać!$h",
-        "winter_Fri10": "@, muszę Ci coś powiedzieć...#$e#Chodzi o... em... cóż... Twoje buty! One, ee... wyglądają na czyste... *przełknięcie*#$e#To wszystko... *eh*$s",
+        "winter_Fri10": "@, muszę Ci coś powiedzieć...#$e#Chodzi o... em... cóż... Twoje buty! One, ee... wyglądają na czyste... *przełknięcie*#$e#To wszystko... *ech*$s",
         "Wed4": "Nie ufam osobom, które nie lubią zwierząt...#$e#Ach, nie martw się! Wiem, że uwielbiasz zwierzęta!$h"
     }
