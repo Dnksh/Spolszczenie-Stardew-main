@@ -42,6 +42,8 @@
         "Carpenter_CantBuild": "Nie można wybudować w tym miejscu",
         "Carpenter_SelectBuilding_Upgrade": "Wybierz {0} do ulepszenia",
         "Carpenter_SelectBuilding_Demolish": "Wybierz budynek do zniszczenia",
+		"Carpenter_SelectBuilding_Move": "Wybierz budynek do przeniesienia",
+		"Carpenter_SelectBuilding_Paint": "Wybierz budynek do malowania",
         "Carpenter_ChooseLocation": "Wybierz miejsce",
         "Character_Name": "Imię",
         "Character_Wallets": "Zarobki",
@@ -662,7 +664,6 @@
         "Carpenter_PaintBuildings": "Malowanie budynku",
         "Carpenter_CannotPaint": "Ten budynek nie może być pomalowany",
         "Carpenter_CannotPaint_Permission": "Nie masz pozwolenia na malowanie tego budynku",
-        "Carpenter_SelectBuilding_Paint": "Wybierz budynek do malowania",
         "GameMenu_MoveBuildingPermissions": "Tryb przenoszenia",
         "GameMenu_MoveBuildingPermissions_Off": "Tylko gospodarz",
         "GameMenu_MoveBuildingPermissions_Owned": "Tylko właściciel",
@@ -765,6 +766,9 @@
         "PT_Fish": "Złowione ryby",
         "PT_GoldenWalnut": "Znalezione złote orzechy",
         "PT_Total": "Ogólnie skończone",
+		"PT_Total_Value": "{0}%",
+		"PT_Total_ValueWithWaiver": "{0}% (¾1 waiver)", //TODO
+		"PT_Total_ValueWithWaivers": "{0}% (¾{1} waivers)", //TODO
         "EndCredit_Neighbors": "Sąsiedzi",
         "EndCredit_Animals": "Zwierzęta",
         "EndCredit_Fish": "Ryby",
