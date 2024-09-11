@@ -767,8 +767,8 @@
         "PT_GoldenWalnut": "Znalezione złote orzechy",
         "PT_Total": "Ogólnie skończone",
 		"PT_Total_Value": "{0}%",
-		"PT_Total_ValueWithWaiver": "{0}% (¾1 waiver)", //TODO
-		"PT_Total_ValueWithWaivers": "{0}% (¾{1} waivers)", //TODO
+		"PT_Total_ValueWithWaiver": "{0}% (¾1 wyrzeczenia)",
+		"PT_Total_ValueWithWaivers": "{0}% (¾{1} wyrzeczenia)",
         "EndCredit_Neighbors": "Sąsiedzi",
         "EndCredit_Animals": "Zwierzęta",
         "EndCredit_Fish": "Ryby",
