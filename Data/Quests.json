@@ -13,7 +13,7 @@
         "12": "ItemHarvest/Przetapianie/Odkąd masz piec, możesz przetopić jakiś metal. Według instrukcji Clinta, jeśli włożysz 5 rudy miedzi i 1 kawałek węgla do pieca, powinno to wytworzyć sztabkę miedzi./Użyj pieca, aby przetopić Sztabkę Miedzi./(O)334 1/-1/0/-1/true",
         "13": "Basic/Na Plażę!/Ktoś o imieniu Willy poprosił Cię o spotkanie na plaży na południe od miasta. Mówi, że chce Ci coś dać./Idź na plażę na południe od miasta przed 17:00./-1/-1/0/-1/true",
         "14": "Basic/Badanie Kopalni/Na północ od miasta znajduje się stara kopalnia. Mogą tam być cenne minerały, ale Marlon powiedział, że może tam być niebezpieczne./Zejdź na 5 piętro w kopalni./17/17/0/-1/false",
-        "15": "Monster/Inicjacja/Jeśli dasz radę zabić 10 Szlamów, znajdziesz swoje miejsce w Gildii Awanturników./0 z 10 zabitego szlamu./Green_Slime 10/16/0/-1/false",
+        "15": "Monster/Inicjacja/Jeśli dasz radę zabić 10 Szlamów, znajdziesz swoje miejsce w Gildii Awanturników./0 z 10 zabitego szlamu./Green_Slime 10 null false/16/0/-1/false",
         "16": "Location/Inicjacja/Udało Ci się pokonać 10 Szlamów. Teraz możesz wejść do Gildii Awanturników./Wejdź do Gildii Awanturników./AdventureGuild/-1/0/-1/false",
         "17": "Basic/Głębiej W Kopalniach/Wygląda na to, że winda w kopalni nadal działa. Pozwoli to na szybki powrót do każdej odkrytej windy. Głębsza ekspedycja może być dobrym pomysłem./Zejdź na 40 piętro w kopalni./18/18/0/-1/false",
         "18": "Basic/Na Dno?/Jak dotąd nic nie wskazuje, że ta kopalnia ma jakiś koniec. Jak głęboko może sięgać?/Osiągnij ostatnie piętro kopalni./-1/-1/0/-1/false",
