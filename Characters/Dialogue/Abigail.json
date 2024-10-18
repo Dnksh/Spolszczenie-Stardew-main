@@ -66,7 +66,7 @@
         "Wed2": "Cześć @. Masz teraz przerwę?#$e#Ja też. W sumie nic niezwykłego... Po prostu nauka online.",
         "Tue4": "Cześć. Dobrze Cię widzieć.$h#$e#A... tak sobie odpoczywam... A jak Ci mija dzień?",
         "Sat6": "Odwiedzasz mnie? To miłe.$h#$e#Odwiedzasz czasami jaskinię?#$e#Ciekawe. Może kiedyś się tam wybiorę.$l",
-        "Mon8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#Pamiętam jak się tu ${wprowadziłeś^wprowadziłaś}$, trochę mi było szkoda, że ten las miał zostać przerobiony na farmę. Ale teraz cieszę się, że tu jesteś!$h|...Cześć.$h#$e#Chcesz tu trochę posiedzieć? Pozwól, że poczytam z Twojej dłoni. *hihi* $h",
+        "Mon8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#Pamiętam jak się tu ${wprowadziłeś^wprowadziłaś}$, trochę mi było szkoda, że ten las miał zostać przerobiony na farmę. Ale teraz cieszę się, że tu jesteś!$h|...Cześć.$h#$e#Chcesz tu trochę posiedzieć? Pozwól, że poczytam z Twojej dłoni. *hihi*$h",
         "Thu10": "Cześć.$l#$e#Czy czasami czujesz, jakby wszystko było nieprawdziwe?$l#$b#Nie w złym sensie.$h",
         "Fri6": "Ptaki dziś wesoło ćwierkają. Są zbyt prymitywne, by zrozumieć przyszłość.#$e#Lepiej być jak one. Prawda?",
         "Event_VideoGame_Yes": "Wspaniale! Jestem pewna, że z łatwością przejdziemy ten poziom.$h",
