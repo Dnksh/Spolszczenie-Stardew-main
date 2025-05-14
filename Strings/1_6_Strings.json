@@ -489,7 +489,7 @@
   "Spouse_Goodnight1": "Idziesz do łóżka?",
   "Spouse_Goodnight0": "Dobranoc, {0}.",
   "Instant": "Natychmiast",
-  "GrandpaMasteryNote": "{0},^^Jeśli to czytasz, to udało Ci się znaleźć mój sekretny pokój, który dla Ciebie przygotowałem.^^Na tych ścianach są wskazówki, przepisy i nawet moje najbardziej cenione narzędzia... wszystko co najlepsze z wielu lat spędzonych w dolinie.^^Skoro dochodzisz tak daleko, udowadniasz, że masz umiejętności i wiedzę, aby dobrze wykorzystać te sekrety.^^Mam nadzieję, że moje odkrycia pomogą Ci sprawić, że Farma {1} stanie się świecącą gwiazdą całego świata!^^Pokaż powód do dumy!^-Dziadek",
+  "GrandpaMasteryNote": "{0},^^Jeśli to czytasz, to udało Ci się znaleźć mój sekretny pokój, który dla Ciebie przygotowałem.^^Na tych ścianach są wskazówki, przepisy i nawet moje najbardziej cenione narzędzia... wszystko co najlepsze z wielu lat spędzonych w dolinie.^^Skoro dochodzisz tak daleko, udowadniasz, że masz umiejętności i wiedzę, aby dobrze wykorzystać te sekrety.^^Mam nadzieję, że moje odkrycia pomogą Ci sprawić, że {1} farma stanie się świecącą gwiazdą całego świata!^^Pokaż powód do dumy!^-Dziadek",
   "MasteryCompleteToast": "Czujesz rękę Dziadka klepiącą cie po ramieniu...",
   "GiantQiFruitMessage": "Pan. Qi: Och, myślisz, że możesz zdobyć moje drogocenne owoce kiedy Ci się zachce? Pff... Tylko podczas wyzwania, dzieciaku.",
   "Pam_busSign_resort": "Jestem dzisiaj na wakacjach! Nigdzie nie jadę.       -Pam",
