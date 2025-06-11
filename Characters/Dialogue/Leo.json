@@ -1,14 +1,14 @@
 {
-        "Mon": "Cześć... Wszystko gra?",
-        "AcceptGift_(O)StardropTea": "Wow, smakuje dokładnie jak złote orzechy! To wspaniale!",
-        "AcceptGift_(TR)ParrotEgg": "To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłeś, zaopiekuję się nim.^To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłaś, zaopiekuję się nim.",
-        "Mon4": "Wszystko co wiem nauczyły mnie papugi...#$b#Ale na pewno jest więcej rzeczy na tym świecie, których nie wiem.$s",
-        "Tue": "Gdy słońce się gniewa, w dżungli jesteśmy bezpieczni.#$e#Nie znajdzie nas w zaroślach. Przechytrzyłem je! Haha...$h",
-        "Wed": "...Wybacz... nie chcę dzisiaj rozmawiać.$3",
-        "Wed2": "W wulkanie musisz uważać... duchy nie lubią wędrowców.",
-        "Thu": "Widziałeś innych jak ty?^Widziałaś innych jak ty?#$b#Staram się do nich nie odzywać. Bezpieczniej mi ze swoimi...$3",
-        "Fri": "Kiedyś... nocą gdy byłem na czubku wulkanu, widziałem w oddali światła.#$b#Ciekawe czy jest tam więcej ptasich rodzin jak moja?$3",
-        "Fri3": "Ciekawe czy Twój dom jest widoczny z czubka wulkanu?",
-        "Sat": "...Mam zły dzień.$s#$e#A ty idź... baw się. Zostaw mnie samego.$s",
-        "Sun": "Gdy pada deszcz, przedziwne ptaki przylatują.#$b#Próbuję z nimi rozmawiać... ale one po prostu odlatują.$s#$b#Najwyraźniej nie chcą się ze mną zaprzyjaźnić...$s"
+        "Mon": "Cześć... Wszystko w porządku?",
+        "AcceptGift_(O)StardropTea": "Wow, smakuje dokładnie jak złote orzechy! To niesamowite!",
+        "AcceptGift_(TR)ParrotEgg": "To cenne jajko... dzidziuś! Cieszę się, że mi je ${przyniosłeś^przyniosłaś}$. Zaopiekuję się nim.",
+        "Mon4": "Wszystkiego, co wiem, nauczyły mnie papugi...#$b#Ale na pewno jest wiele rzeczy na tym świecie, których jeszcze nie rozumiem.$s",
+        "Tue": "Gdy słońce się gniewa, dżungla daje nam schronienie.#$e#Nie znajdzie nas w zaroślach. Przechytrzyłem je! Ha ha...$h",
+        "Wed": "... Wybacz... nie chcę dzisiaj rozmawiać.$3",
+        "Wed2": "W wulkanie trzeba być ostrożnym... Duchy nie lubią wędrowców.",
+        "Thu": "${Widziałeś^Widziałaś}$ innych takich jak ty?#$b#Staram się z nimi nie rozmawiać. Czuję się bezpieczniej wśród swoich...$3",
+        "Fri": "Kiedyś, w nocy, gdy byłem na szczycie wulkanu, widziałem światła w oddali.#$b#Ciekawe, czy tam też mieszkają ptasie rodziny, takie jak moja?$3",
+        "Fri3": "Ciekawe, czy Twój dom widać z czubka wulkanu?",
+        "Sat": "... Mam dziś zły dzień.$s#$e#A ty idź... baw się. Zostaw mnie w spokoju.$s",
+        "Sun": "Gdy pada deszcz, przylatują przedziwne ptaki.#$b#Próbuję z nimi rozmawiać... ale one po prostu odlatują.$s#$b#Chyba nie chcą się ze mną zaprzyjaźnić...$s"
     }

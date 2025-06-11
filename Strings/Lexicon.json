@@ -1,5 +1,5 @@
 {
-        "RandomNegativeItemNoun": "chłam#bubel#kicz#badziew#bubel",
+        "RandomNegativeItemNoun": "chłam#bubel#kicz#badziew#śmieć",
         "RandomPositiveAdjective_Child": "fajny#zabawny#schludny#miły#sprytny#super#wspaniały",
         "RandomPositiveAdjective_AdultMale": "interesujący#ekscytujący#schludny#zabawny#wspaniały#przerażający",
         "RandomPositiveAdjective_AdultFemale": "wspaniały#niesamowity#miły#magiczny#niesamowity#śliczny#ekscytujący#zachwycający",
@@ -7,7 +7,7 @@
         "RandomDeliciousAdjective": "przepysznym#smacznym#wspaniałym#satysfakcjonującym#pożywnym#klawym#apetycznym#zachwycającym",
         "RandomDeliciousAdjective_Child": "mniam",
         "RandomNegativeFoodAdjective_Child": "fuj",
-        "RandomNegativeFoodAdjective_Polite": "...interesujące#...niezwykłe#...inne#...oryginalne",
+        "RandomNegativeFoodAdjective_Polite": "... interesujące#... niezwykłe#... inne#... oryginalne",
         "RandomNegativeFoodAdjective": "paskudne#obrzydliwe#odrażające#podłe#oburzające#mdławe#straszne#odpychające#mdlące#cuchnące#przerażające#wstrętne",
         "RandomSlightlyPositiveFoodAdjective": "przyzwoity#dobry#jadalny",
         "ChildTerm_Male": "chłopca",
