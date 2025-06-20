@@ -232,7 +232,7 @@
         "Sewer_DogStatue": "-Statua Niepewności-^Ta statua może Ci pomóc zmienić profesję.^Złożyć ofiarę z 10,000 złota?",
         "Sewer_DogStatueCancel": "Żadną, zmieniłem zdanie...",
         "Sewer_DogStatueQuestion": "Którą profesję chcesz zmienić?",
-        "Sewer_DogStatueAlready": "Dzisiaj już zmieniłeś swoją profesję. Wróć jutro...",
+        "Sewer_DogStatueAlready": "Dzisiaj już ${zmieniłeś^zmieniłaś}$ swoją profesję. Wróć jutro...",
         "Sewer_DogStatueFinished": "*hau* *hau* (Zrobione... Teraz idź spać...)",
         "WitchHut_EvilShrineLeft": "-Mroczna Kapliczka Arogancji-^Twoje dzieci przemienią się w gołębie i odlecą...^Złożyć ofiarę z Pryzmatycznego Odłamka?",
         "WitchHut_EvilShrineLeftInactive": "-Mroczna Kapliczka Arogancji-^Statua przeszywa Cię wzrokiem...",

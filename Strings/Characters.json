@@ -41,7 +41,7 @@
         "Henchman4": "Mmmm... wygląda na świeże, ale nie, dziękuję... może ty to weźmiesz?",
         "Henchman5": "*niuch*...*niuch*...#$b#Ten zapach...#$b#Nie mogę się oprzeć... Dawaj to!$h",
         "Henchman6": "Dzięki.",
-        "KrobusDarkTalisman": "Hmm? Szukasz mrocznego talizmanu?#$b#... Hmmm. Jak tak teraz o tym wspominasz, to miałem kiedyś taki.#$b#Niestety, zgubiłem go przy eksploracji tunelu.#$b#Zaczęło się tam robić niebezpiecznie, więc uciekłem i zamknąłem przejście.#$b#Wydajesz się jednak dość ${twardy^twarda}$... Otworzę go dla Ciebie. Ale uważaj, ok?^Wydajesz się jednak dość silna... Otworzę go dla Ciebie. Ale uważaj, ok?",
+        "KrobusDarkTalisman": "Hmm? Szukasz mrocznego talizmanu?#$b#... Hmmm. Jak tak teraz o tym wspominasz, to miałem kiedyś taki.#$b#Niestety, zgubiłem go przy eksploracji tunelu.#$b#Zaczęło się tam robić niebezpiecznie, więc uciekłem i zamknąłem przejście.#$b#Wydajesz się jednak dość ${silny^silna}$... Otworzę go dla Ciebie. Ale uważaj, ok?",
         "Divorced_bouquet": "To... Chcesz mnie zranić jeszcze bardziej?$s",
         "Divorced_gift": "Nie chcę twojego prezentu.$a",
         "PetLovesYou": "{0} Cię kocha.",
