@@ -110,7 +110,7 @@
         "fall_Tue": "$d joja#W większość dni próbuję pomagać przy sklepie. Biznes się trochę słabo rozkręca odkąd otworzyli Joja Market.|Odkąd zamknęli Joja Market nasz sklep ma się świetnie!$h",
         "fall_Wed": "Już się nie mogę doczekać tych wszystkich dyń.$h#$e#Wigilia Duchów jest pod koniec jesieni. W porównaniu do Miasta Zuzu, święto u nas jest trochę mniejsze, ale dla takiego małego miasteczka jest w tym wiele frajdy.",
         "fall_Thu": "#$1 AbigailHAND#Tamtej nocy śniło mi się, że moja lewa ręka zmieniła się w %noun giganta. Czy to może coś znaczyć?#$e#%Abigail nie ma teraz ochoty na rozmowę.",
-        "fall_Sat": "$d cc#Nie mogę uwierzyć, że udało Ci się naprawić stare Centrum Społeczności! Jestem zaskoczona.|Masz na swojej farmie jakieś strachy na wróble?",
+        "fall_Sat": "$d cc#Nie mogę uwierzyć, że udało Ci się naprawić stary Dom Kultury! Jestem zaskoczona.|Masz na swojej farmie jakieś strachy na wróble?",
         "fall_Sun": "Hmm... Co powinnam dziś zrobić?#$q 27/28 fall_Sun_old#Myślałam o ponownym farbowaniu włosów... Jak myślisz?#$r 27 10 Sun_27#Pofarbuj na czarno.#$r 27 10 Sun_27#Czemu by nie blond?#$r 27 20 Sun_WildColor#A może róż?#$r 28 0 Sun_28#Lubię takie włosy, jakie masz!",
         "fall_Sun_old": "$p 27#Chciałam przefarbować włosy, ale zmieniłam zdanie.|Tak? O co chodzi?",
         "Sun_27": "Myślę, że to bezpieczny wybór.#$e#Przemyślę to.",
