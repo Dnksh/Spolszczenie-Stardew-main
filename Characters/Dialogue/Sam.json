@@ -34,7 +34,7 @@
         "breakUp": "Czekaj... Co?!$8#$b#Myślałem, że dobrze nam idzie... Ale się myliłem... W porządku.$9#$b#Ta, pewnie... Nadal możemy być przyjaciółmi.$9",
         "divorced": "Wybacz, @. Raczej nie możemy być przyjaciółmi.$s",
         "Mon2": "Hej, jak leci?#$e#Ostatniej nocy ćwiczyłem grę na gitarze przez 4 godziny. Okropnie bolą mnie palce.$s#$e#Mam coś do załatwienia, na razie...",
-        "Mon": "Hej, farmerze.^Hej, farmerko.",
+        "Mon": "Hej, ${farmerze¦farmerko}$.",
         "Mon8": "Zdradzę ci sekret... 'Sam' to zdrobnienie od 'Samson'.$10#$e#Większość ludzi o tym nie wie, więc nikomu nie mów.",
         "Tue": "O, cześć! Dobrze cię widzieć.#$e#Luz w bluz.",
         "Tue4": "Cześć, @. Chcesz gdzieś razem połazić, czy coś?#$e#Przyjemnie się śpi, ale czasami szkoda na to dnia... To taka strata czasu.",
